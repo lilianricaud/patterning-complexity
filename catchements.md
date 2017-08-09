@@ -12,11 +12,11 @@ place a few rocks in a eroded slope. Correctly placed this will be enough to slo
 
 ## Remaining questions 
 - How can we create  "catchments in web of trust"
-- Differences between catchments and dissipative structures ?
+- Differences/Link between catchments and DISSIPATIVE STRUCTURES ?
 
 ## References
 
- Blain "catchments"
+Blain "catchments"
 
 http://bollier.org/shared-patterns-indigenous-culture-permaculture-and-digital-commons
 
