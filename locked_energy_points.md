@@ -1,6 +1,6 @@
 # Locked energy points
 
-_This from Tom Atlee on social systems, but could be seen as accunpuncture and used for architectural or agricultural systems:_
+_These questions from Tom Atlee could be seen as accunpuncture for social systems, and adapted to architectural or agricultural systems:_
 
 Work with existing energies and unlock:
 - where can suppressed passions be productively empowered ?
