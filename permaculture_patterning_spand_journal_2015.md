@@ -1,8 +1,7 @@
-
+This article was originally published in Spanda Journal on 2015, on Systemic change:
+https://www.academia.edu/13892001/Spanda_Journal_VI_1_-_Systemic_Change
 
 # Permaculture Patterning, a design framework for systemic transformation
-
-
 
 ## From a mechanistic to a systemic view of the world
 
@@ -117,7 +116,7 @@ Alexander hypothesized that throughout the world, builders used certain &quot;la
 
 He argued that the 20th century lost this knowledge, and devised the pattern language method as a way to make this knowledge explicit and revive it. Christopher Alexander coined the term _Pattern Language_ to refer to a collection of common problems pertaining to the design and construction of buildings and towns and how they should be solved.
 
-The concept of Patterns and Pattern Languages
+### The concept of Patterns and Pattern Languages
 
 In everyday use a pattern describes a plan, diagram, or model to be followed in making things, for example, _a dress pattern_[^24]_._ In nature, patternsare visible regularities of form found in the natural world[^26].
 
@@ -151,14 +150,10 @@ A pattern language gives each person who uses it the power to create an infinite
 
 A person with a pattern language can design any part of the environment and does not need to be an expert because the expertise lies in the language.
 
-Patterns: More than meet the eyes
+### Patterns: More than meet the eyes
 
-Although it hasn&#39;t gained much traction in architecture, the pattern language approach has been used to document expertise in diverse fields such as computer science, human computer interaction, education, and group facilitation
-
-# 11, 23, 27,28
-. In computer science particularly, it sparked a revolution in thinking and led to a new way of writing computer code
-# 16
-.
+Although it hasn&#39;t gained much traction in architecture, the pattern language approach has been used to document expertise in diverse fields such as computer science, human computer interaction, education, and group facilitation [^11],[^23],[^27],[^28],
+. In computer science particularly, it sparked a revolution in thinking and led to a new way of writing computer code[^16].
 
 However pattern languages are mostly seen as a formal way of documenting a solution to a common design problem and few seem to understand and use them in a systems thinking perspective.
 
@@ -171,17 +166,11 @@ Alexander warned that patterns are more than just clever design tools or formats
 - as an element in the world, it is a relationship between a certain context, a certain system of forces which occurs repeatedly in that context, and a certain spatial configuration which allows these forces to resolve themselves.
 - as an element of language, a pattern is an instruction, which shows how this spatial configuration can be used, over and over again, to resolve the given system of forces, wherever the context makes it relevant.
 
-The pattern is, in short, at the same time a thing, which happens in the world, and the rule which tells us how to create that thing, and when we must create it. It is both a process and a thing; both a description of a thing which is alive, and a description of the process which will generate that thing
-
-# 3,4
-.
+The pattern is, in short, at the same time a thing, which happens in the world, and the rule which tells us how to create that thing, and when we must create it. It is both a process and a thing; both a description of a thing which is alive, and a description of the process which will generate that thing[^3],[^4].
 
 It is important to insist that, more than just being a way to describe a good practice, a pattern is a particular _configuration_ - within a particular system - that integrates and resolves a set of conflicting forces in a harmonious/non-forceful manner.
 
-This forces can be structural, social, psychological, psychic, natural or a mix of several different ones
-
-# 2
-.
+This forces can be structural, social, psychological, psychic, natural or a mix of several different ones[^2].
 
 The power of good patterns comes from the fact that when the _qualitative relationship_ between elements is right, it allows the various forces in presence to be used productively by the system to maintain itself and/or help maintain the sub-systems it contains and the wider systems it is part of.
 
@@ -191,14 +180,11 @@ When a system contains lots of &quot;living&quot; (creative or generative) patte
 
 When a system has too little &quot;living&quot; patterns or too many dead (destructive) ones, self-regulation decreases, entropy/disorder increases and eventually leads to a system collapse.
 
-From pattern languages to generative sequences
+### From pattern languages to generative sequences
 
 In his latest work, Alexander refined the theoretical framework behind pattern languages and explained the underlying basis for pattern language efficiency.
 
-In the Nature of Order
-
-# 1,2
- he proposes a deep and fascinating theory postulating that what he calls &quot;centers&quot; (the various &quot;parts&quot; or &quot;elements&quot; of a system described by patterns) emerge from the whole via a step-by-step unfolding process that preserves, differentiates and extends the existing structure by the application of fifteen possible transformations.
+In the Nature of Order[^1],[^2] he proposes a deep and fascinating theory postulating that what he calls &quot;centers&quot; (the various &quot;parts&quot; or &quot;elements&quot; of a system described by patterns) emerge from the whole via a step-by-step unfolding process that preserves, differentiates and extends the existing structure by the application of fifteen possible transformations.
 
 One of the point he makes is that his first pattern language lacked instructions on the order in which to use the patterns to get this unfolding process correct. He now focusses on what he calls generative sequences, ordered sequences promoting a generative process.
 
@@ -206,14 +192,11 @@ Embryonic development is an example of a natural generative process. In an embry
 
 Similarly we can use artificial generative processes to build complex structures. To describe in any detail the final form of an Origami and the complex relationships between its parts is very difficult and not of much help in explaining how to achieve it. Much more useful and easier to formulate are instructions on how to fold the paper.
 
-A generative sequence is a set of instructions that when used in the right order, allows a complex structure to emerge effortlessly and may be thought of as a second generation pattern language
+A generative sequence is a set of instructions that when used in the right order, allows a complex structure to emerge effortlessly and may be thought of as a second generation pattern language[^6].
 
-# 6
-.
+## Common ideas/principles between the pattern language and permaculture frameworks
 
-Common ideas/principles between the pattern language and permaculture frameworks
-
-Start with an Ethical framework
+### Start with an Ethical framework
 
 It is relevant to note that in Donella Meadows leverage points, the mindset or paradigm  that the system arises from is ranked as one of the highest leverage points.
 
@@ -225,13 +208,13 @@ Ethics, embedded throughout Alexander&#39;s writing,  are even more central in p
 
 Starting with an ethical statement such as the one used by permaculture is a simple yet extremely important point for positive systemic change.
 
-Map what is already there and work creatively with it to preserve and extend it
+### Map what is already there and work creatively with it to preserve and extend it
 
 Permaculture starts early on by mapping all the various elements and forces and tries to build upon what already exists by making the smallest change with the most powerful effect. Alexander usually works by building pattern languages that preserve and extend the existing systems. In his approach structure-preserving transformation is seen as a fundamental principle of uttermost importance.
 
 In each method,  having a deep understanding of the context before taking any action is seen as essential. Valuing what exists and working creatively with it to make it more whole is seen as the right way to go, whereas arbitrarily wiping out the existing to build something new is seen as wrong and counterproductive at best and extremely damaging at worst. It should be only done on a limited scale and in particular cases.
 
-Shift focus from objects to relationships
+### Shift focus from objects to relationships
 
 Fritjof Capra clearly highlighted the differences between the mechanistic and systems world views[^7].
 
@@ -269,7 +252,7 @@ To guide the adaptation, at each step in the process there must be a continuous 
 
 Developing such generative sequences as proposed by Alexander seems an essential tool to structure this step-by-step process.
 
-Design mainframe first, then go into details
+### Design mainframe first, then go into details
 
 Systems are intrinsically highly complex structures and knowing where to start can be extremely hard to figure out.
 
@@ -279,7 +262,7 @@ In permaculture this is called working from patterns to details, whereas Alexand
 
 One guideline to identify the major aspects to work on first could be this recommendation from Alexander: _&quot;At each step, direct your attention to centers, the unit of energy within the whole, and ask: which one center could be created (or extended or intensified or even pruned) that will most increase the life of the whole&quot;_.
 
-Always be aware of the Whole(s)
+### Always be aware of the Whole(s)
 
 Systems properties are properties of the whole which none of the parts have. These properties arise from the &#39;organizing relations&#39; of the parts, i.e. from a configuration of ordered relationships characteristic of that particular class of organisms. Systems and these systemic properties are destroyed when a system is dissected into isolated elements. Shifting our focus from parts to whole is therefore a core idea of systems thinking[^7].
 
@@ -289,7 +272,7 @@ Having a holistic perspective and remaining aware of the whole at each step of t
 
 Moreover we need to keep in mind that, because systems are always nested within systems, each sub-system is a whole in itself yet constantly influencing the other scales. Because of this fractal nature of systems we need to be able to shift focus between small and big scale to really grasp the whole.
 
-Change your view of order: Accept unpredictability &amp; emergence
+### Change your view of order: Accept unpredictability &amp; emergence
 
 From the systems thinking perspective, the &quot;neat&quot; or &quot;tidy&quot; machine-like order we are used to in the mechanistic view is actually an artificially maintained disorder which is energetically very costly and very inefficient compared to the &quot;messy&quot; but vastly more complex natural order of living systems.
 
@@ -306,7 +289,7 @@ Accepting a part of unpredictability can be hard for mechanistic thinkers but an
 
 This doesn&#39;t mean we cannot have an influence on where the system is going. Because we are also part of the system, we can have an influence. But we should accept willfully that although we can set the direction, we cannot predict and control entirely the way to get there.
 
-Shift your focus from quantitative to qualitative assessment
+### Shift your focus from quantitative to qualitative assessment
 
 As Capra argues, for most of the time the study of patterns was eclipsed by the study of substance until it re-emerged forcefully in our century, when it was recognized by systems thinkers as essential to the understanding of life. In the study of substance, we measure and weigh things. Patterns, however, cannot be measured or weighed; they must be mapped. To understand a pattern, we must map a configuration of relationships. In other words, substance involves quantities, while patterns involves qualities.
 
@@ -316,7 +299,7 @@ If we fail to understand the importance of the qualitative and focus only on wha
 
 Both permaculture and pattern language approaches understand this and so should a system designer.
 
-Rely on your intuition and feeling as a tool to comprehend the wholeness of systems.
+### Rely on your intuition and feeling as a tool to comprehend the wholeness of systems.
 
 Implicit in Mollison&#39;s approach but explicit in Alexander&#39;s is that our rational mind is not sufficient to grasp the complexity of systems and we have to rely on our intuition and feeling as a tool to comprehend the wholeness of systems.
 
@@ -324,29 +307,23 @@ Alexander did experiments to prove there is an objective reality behind our feel
 
 Alexander discussed this extensively in The Nature of Order, and it is the aspect of the intellectual paradigm he offers which is the most at odds - at least on the surface - with the Cartesian paradigm.
 
-Toward a new design method for systems
+## Toward a new design method for systems
 
 As mentioned earlier, systemic change requires structured design methods, just like engineers or designers have structured methods to build objects. However, designing systems is extremely challenging because of their very complex nature.
 
 The design discipline, as we think about it today, is still strongly anchored in a mechanistic/reductionist view of the world, focussing on elements and parts. Worse sometimes design places appearance before function.
 
-If we want systemic change for the better there is a danger of trying to solve systemic problems using a reductionist approach
-
-# 8, 20
-. The promise of quick technological fixes can be seductive, but as we discussed earlier this can have disastrous effect when dealing with large systems.
+If we want systemic change for the better there is a danger of trying to solve systemic problems using a reductionist approach[^8],[^20]. The promise of quick technological fixes can be seductive, but as we discussed earlier this can have disastrous effect when dealing with large systems.
 
 As Albert Einstein famously said – &quot;We can&#39;t solve problems by using the same kind of thinking we used when we created them_._&quot; Donella Meadows number one leverage point was the ability to transcend paradigm.
 
 Can we imagine a design discipline that grows with its roots in the systems thinking paradigm ?
 
-From designing to patterning
+## From designing to patterning
 
 Indeed, in the last few years  new schools of thought have emerged in the design field. Pioneered by developers seeking to improve their ability to deal with complex software building projects, agile methodologies embed in their process several principles common to pattern languages and permaculture approach: (iterative steps, structure-preserving unfolding, adaptive instead of predictive approach, use of feedback …).
 
-Interestingly Ward Cunningham, inventor of the wiki and one of the main actors of the extreme programming methodology and the Agile Manifesto was directly influenced by Alexander
-
-# 21
-.
+Interestingly Ward Cunningham, inventor of the wiki and one of the main actors of the extreme programming methodology and the Agile Manifesto was directly influenced by Alexander[^21],.
 
 Another school of thought, Design Thinking, also aims to tackle complex design problems with principles common to the ones we have seen (using the creative/intuitive mind to complement analytical thinking, focusing on process before form, etc…)
 
@@ -356,7 +333,7 @@ Beyond the surface, Permaculture design and Pattern Languages are more than just
 
 Both anchored in reality (they deal with buildings and gardens and people, so they cannot afford to be only conceptual, they have to work practically) and strongly inspired by thousand-years old traditional cultures, these two approaches have developed a set of robust principles for systems design.
 
-Permaculture Patterning
+## Permaculture Patterning
 
 As discussed throughout this article, central to both design frameworks studied is the concept of patterning. Although it is not clear how much Mollison was influenced by Alexander, both permaculture and pattern language use the notion of patterns with slightly different yet very complementary views.
 
@@ -380,10 +357,7 @@ Here are some core principles of permaculture patterning I propose as a basis fo
 - Shift your focus from quantitative to qualitative assessment
 - Rely on your intuition and feeling as a tool to comprehend the wholeness of systems.
 
-Some initiatives are already moving in this directions
-
-# 9
- and I hope this article encourages the development of more systems thinking research and education and the democratization of this ideas in the wider society. We urgently have to update our obsolete cartesian worldview if we are to achieve systemic change for the better.
+Some initiatives are already moving in this directions[^9] and I hope this article encourages the development of more systems thinking research and education and the democratization of this ideas in the wider society. We urgently have to update our obsolete cartesian worldview if we are to achieve systemic change for the better.
 
 Although systems thinking and the proposed Permaculture patterning framework are complex topics, we should aim to make this knowledge accessible to everyone, and build more practical tools and methods to empower people to act on their environment harmoniously.
 
@@ -395,7 +369,7 @@ Left on their own, systems seem to evolve naturally towards greater stability. R
 
 CC-BY-SA Lilian Ricaud (2015)
 
-References
+## References
 
 1. Alexander, C. Ishikawa, S. Silverstein, M. (1977) _A Pattern Language: Towns, Buildings, Construction_ (Oxford University Press)
 2. Alexander, C. (1979) _The Timeless Way of Building_ (Oxford University Press)
