@@ -233,10 +233,7 @@ In each method,  having a deep understanding of the context before taking any ac
 
 Shift focus from objects to relationships
 
-Fritjof Capra clearly highlighted the differences between the mechanistic and systems world views
-
-# 7
-.
+Fritjof Capra clearly highlighted the differences between the mechanistic and systems world views[^7].
 
 In the traditional mechanistic approach, the world is seen as a collection of objects or elements. These of course interact with one another and hence there are relationships between them, but relationships are seen as secondary. In the systems view, relationships are seen as primary. As Capra wrote:
 
@@ -284,12 +281,9 @@ One guideline to identify the major aspects to work on first could be this recom
 
 Always be aware of the Whole(s)
 
-Systems properties are properties of the whole which none of the parts have. These properties arise from the &#39;organizing relations&#39; of the parts, i.e. from a configuration of ordered relationships characteristic of that particular class of organisms. Systems and these systemic properties are destroyed when a system is dissected into isolated elements. Shifting our focus from parts to whole is therefore a core idea of systems thinking
+Systems properties are properties of the whole which none of the parts have. These properties arise from the &#39;organizing relations&#39; of the parts, i.e. from a configuration of ordered relationships characteristic of that particular class of organisms. Systems and these systemic properties are destroyed when a system is dissected into isolated elements. Shifting our focus from parts to whole is therefore a core idea of systems thinking[^7].
 
-# 7
-.
-
-While in a mechanical process, parts are formed independently of the whole, and then added together to form an aggregation, in a living structure, the parts come into being within the whole, emerging and getting differentiated from it[^1].
+While in a mechanical process, parts are formed independently of the whole, and then added together to form an aggregation, in a living structure, the parts come into being within the whole, emerging and getting differentiated from it[^1][^2].
 
 Having a holistic perspective and remaining aware of the whole at each step of the design process is therefore essential for systems design, and both pattern languages and permaculture strongly pay attention to this.
 
