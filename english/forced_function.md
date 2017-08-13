@@ -4,14 +4,12 @@ In permaculture, when a part of system is used in way that goes against its natu
 
 Seeking to minimize energy waste, permaculture recognize that when an element of a system is allowed to function naturally it use less energy than when if it forced to go against is natural behavior.
 
-For example in traditionnal agriculture, "weeds" are seen as bad and must be eliminated which is energitically costly and endless.
+For example in traditionnal agriculture, "weeds" are seen as bad and must be eliminated which is energitically costly and endless. In permaculture, it is seen as an indicator about the nature of soils and use to contribute to regenerate soils.
 
-En permaculture, on parle de fonction forcée lorsqu'un élément d'u système est forcé à fonctionner d'une manière qui va l'encontre de son comportement naturel.
+Permaculture goes further, trying to design system so natural functions of elements is beneficial to system instead of destructive.
 
-Soucieuse de minimiser les pertes énergétiques, la permaculture cherche plutot a créer des conditions où les fonctions naturelles s'expriment d'une manière bénéfiques au système.
 
-Par exemple en agriculture traditionnelle, une "mauvaise herbe" est vue comme quelque chose de mauvais à éliminer. En permaculture, elle est vue comme une plante pionnière qui donne des indications sur la nature du sol et va contribuer à son amélioration.
+For example chicken scratch the soil and east seedlings, which can be damaging for a garden when chicken are left free. On the other end, chicken left in cage accumulate lots of manure and nothing grow and chicken don't have fresh food.
 
-Autre exemple: Le comportement naturel du poulet est de manger des graines, des jeunes pousses et de gratter la terre, ce qui peut causer des dommages dans un jardin. Plutot que de betement cloisonner le poulet, la permaculture utilise des "chicken tractors", une sorte de cage mobile qui à la forme d'un sillon et permet de faire gratter les poulets dans le jardin avant de replanter, utilisant leur comportement pour travailler le sol, ajouter de la fiente, éliminer les herbes, mais d'une manière qui ne nuit pas au reste des cultures du jardin.
+So permaculture builds CHICKEN TRACTORS, a mobile cage that is use to keep chicken within specific parts of a garden, just for the time to eat weeds, seedling, scratch, add manure, eat insects and then the cage is move like tractor that prepare the soil without turning it and without much energy.
 
-Autre exemple: concevoir le system pour utiliser au maximum la gravité pour faire descendre l'eau ou les matériaux avec le minimum d'énergie
