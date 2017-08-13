@@ -1,21 +1,24 @@
-## Permaculture_patterning
+# Permaculture_patterning
 
-Both permaculture and pattern design are conscious approach to design living systems.
+Both permaculture and pattern design are conscious approach to design living systems. Here is draft to compare all the permaculture and patterning sequence/process used by designers so far.
 
-### Permaculture design: 
-Start with elements (parts)
-assemble them
-into a whole
 
-This is a process of starting with parts then creating wholes by addition.
-
-### Patterning (Alexander)
+## Patterning (Alexander)
 
 start with a whole ...
 differentiate it ...
 into parts ...
 
 This is a process of starting with wholes then creating parts by differentiation.
+
+## Permaculture design: 
+
+Start with elements (parts)
+assemble them
+into a whole
+
+This is a process of starting with parts then creating wholes by addition.
+
 
 ### Start with mainframe
 
