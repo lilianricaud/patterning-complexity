@@ -1,8 +1,12 @@
 # Template V2.5
 
+Most pattern template try to be exhaustive, but often the information is siloed within various sections (context, problem, solutions,) or try to be too detailled (describing wich forces are harmonized by the patterns). Since all context are different, it is better to have description that contains all this information then iterate. think about it more as a generated piece of art and not a fabricated object with a list of feature
+
+The template below use all these ideas.
+
 ## Pattern Name
 
-Short (1-3 words). Alexander doesn't use verbs générally. Why ??
+Short (1-3 words). Alexander doesn't use verbs générally. Why ?? Possibly because verbs are used to describe the relationship between patterns (ex: ROOF *sits above* the WALLS)
 
 ### Problem/context
 
@@ -22,7 +26,7 @@ Small link
 Alexander wrotte a lot of information to give evidence about the effectiveness of a pattern
 
 ## Source
-Where does the ninformation described come from (personal experience, scientific data, ...)
+Where does the information described come from (personal experience, scientific data, ...)
 
 ## Related patterns
 
