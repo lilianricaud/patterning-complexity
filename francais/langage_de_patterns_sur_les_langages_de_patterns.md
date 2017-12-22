@@ -73,7 +73,7 @@ Si ces MOTS-PATTERNS sont potentiellement plus profonds et plus rafinés que des
 
 Selon Alexander (1977), chaque pattern décrit: "un problème qui survient encore et encore dans un notre environnement, puis décrit l'essence de la solution à ce problème de telle manière à ce que l'on puisse utiliser cette solution un million de fois, sans jamais refaire exactement deux fois la même chose.
 
-chaque pattern d'alexander possède un FORMAT STRUCTURÉ et fait partie d'un ENSEMBLE STRUCTURÉ (langage de pattern.
+Chaque pattern d'alexander possède un FORMAT STRUCTURÉ et fait partie d'un ENSEMBLE STRUCTURÉ (langage de pattern.
 
 
 Chacun des patterns d'Alexander contient les éléments suivants:
@@ -98,7 +98,7 @@ solution
 
 Les autres patterns intégrés au texte sont écrits en MAJUSCULES pour distinger les MOTS-PATTERNS des mots ordinaires
 
-flexibilité de la structure selon le besoin et le degré de maturité du pattern
+Je garde une certain flexibilité de la structure selon le besoin et le degré de maturité du pattern. en ce sens mes patterns sont parfois plus proche de PATTERNS ALEXANDRIENS parfois plus simplement de MOTS-PATTERNS.
 
 le titre est un NOM pas un verbe ce qui permet la combinaison dans une perspective de communication via le langage de parlé oralement ou par écrit.
 
@@ -156,4 +156,18 @@ Si les patterns peuvent être vus comme des ingrédients, les SÉQUENCES GÉNÉR
 
 Une autre façon de voir les séquences génératives: les patterns décrivant une configuration spatiale, une topologie, les séquences génératives une configuration spatio-temporelle (combinaison de patterns spatiaux et patterns temporels).
 
+## CARTES PATTERNS PAPIERS
 
+les supports numériques sont intangibles et moins facilement à manipuler collectivement en groupe. Ils nous mettent face à l'écran avec les incovénients que cela procure et ne nous permettent pas de "penser avec nos mains"
+
+Le LIVRE PAPIER est un bon format pour présenter l'information de manière séquentielle/linéaire, ce qui est utile pour amener un raisonnement à des débutants. Pour autant ceci est limité pour aborder des sytèmes complexes qui peuvent être vus/décrits de plusieurs manières.
+
+Pour cela l'usage de techniques de MANAGEMENT VISUEL (POST-IT, MINDMAPS) est préférable.
+
+Par conséquent, privilégier l'usage de CARTES PATTERNS PAPIERS décrivant l'essence du PATTERN. Sur la face avant indiquer de manière indélébile le NOM EXPLICITE DU PATTERN et un VISUEL ILLUSTRATIF.
+
+Plus tangibles que les supports numériques, les CARTES PATTERNS PAPIERS sont faciles et agréables à manipuler pour "penser avec nos mains".
+
+Plus solides que les POST-IT standards Les CARTES PAPIERS sont plus durables,  plus substantielles et permettent de conserver l'information issues des premières ITÉRATIONS.
+
+Permettent de manipuler indivuellement ou collectivement l'information de manière visuelle.
