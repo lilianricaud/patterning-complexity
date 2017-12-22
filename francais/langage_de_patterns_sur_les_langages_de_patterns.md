@@ -4,9 +4,9 @@ harmonie subtile, degré de cohérence d'un système qui présente une forte cap
 
 ## PATTERNS
 
-Le mot pattern est un mot qui possède plusieurs niveaux de sens.
+Le mot pattern est un mot qui possède plusieurs niveaux de sens ce qui peut créer de la confusion.
 
-En lanage courant pattern peut se traduire comme patron (de couture, "ce qui guide"), trame, schéma, 
+En langage courant pattern peut se traduire comme patron (de couture, "ce qui guide"), trame, schéma, 
 
 En systémique un pattern est une **configuration recurrente** qui exprime une **relation** entre plusieurs éléments et qui est **caractéristique d'un système donné**.
 
@@ -16,11 +16,15 @@ un pattern est donc en fait un moyen de cartographier une sous partie d'un syst�
 
 Alexander cherche à produire des pattern vivants/vivifiants, c'est à dire des pattern d'organisation qui augmente ce qu'il appelle la QUALITÉ SANS NOM dans les systèmes auxquels ils appartiennent.
 
+Les suiveurs d'Alexander, notamment les informaticiens, ont plus tard renommés ces pattern "design pattern", ce qui était un bon moyen d'exprimer que ces pattern était orienté solution à de problèmes de conception. Pourtant en parallèle, il semble qu'ils n'aient garder que le coté "format utile pour décrire une bonne pratique" et qu'il aient perdu en cours de route l'aspect recherche de la QUALITÉ SANS NOM, peut être trop ésotérique ou difficile à mesurer. Celle ci étant décrite dans the Timeless Way of Building, ouvrage qui a été peu lu, peut etre qu'il n'en ont d'ailleurs jamais eu conscience de l'importance de cet aspect.
 
-Différence entre pattern et bonne pratique:
+Ainsi pour résumer un PATTERN ALEXANDRIN se distingue d'une bonne pratique en ceci:
 - structure de description formelle
 - exprime une relation/configuration
 - est à la fois assez large pour être utilisé dans différent contextes et assez précis pour guider
+- contribue à augmenter la QUALITÉ SANS NOM
+
+Un autre problème de confusion est que le pattern décrit à la fois le résultat/configuration à atteindre (une FENÊTRE, UN TOIT) et le moyen de l'atteindre. Pourtant ceci à ses limites. I est en effet tres difficile pour un novice de savoir à quel moment il faut décrire ou mettre en oeuvre tel pattern. Par quoi commencer ? Faut il spécifier la FENÊTRE avant le TOIT ? En pratique on peut specifier uniquement la taille de la FENÊTRE lorsque l'on monte les MURS, poser le TOIT puis spécifier plus en détail la forme de la FENÊTRE. Pour un constructeur avancé, ceci n'est pas handic
 
 ## LANGAGE DE PATTERNS
 
