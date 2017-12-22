@@ -220,8 +220,8 @@ des unités informationnelles conçues pour être facilement manipulables et com
 
 ## QUESTIONS PUISSANTES
 
-des questoins conçues pour qui ouvrent la discussion faire clarifier et expliciter des choses, émerger du sens, provoquer des discussion riches et non pas des répo
+des questoins conçues pour qui ouvrent la discussion faire clarifier et expliciter des choses, faire émerger du sens, et non pas des réponses oui/non.
 
 ## MÉTAPHORES ADAPTÉES
 
-
+pour le meilleur et pour le pire, une métaphore conditionne la pensée et ouvre certains possibles (ex métaphore machine ou métaphore arbre)
