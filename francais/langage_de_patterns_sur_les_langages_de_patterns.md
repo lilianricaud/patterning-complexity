@@ -18,20 +18,23 @@ Chacun des patterns d'Alexander contient les éléments suivants:
 - un NOM EXPLICITE
 - un numéro
 - une image 
-- un paragraphe d'introduction (pose lecontexte et explique comment le pattern décrit aide à compléter des patterns plus larges), 
-- trois diamants/losanges (beginning of the problem), 
+- un paragraphe d'introduction (pose le contexte et explique comment le pattern décrit aide à compléter des patterns plus larges), 
+- trois diamants/losanges (début du probleme), 
 - headline (the essence of the problem),
-- body of the problem, 
-- a solution, 
-- a diagram, 
+- coeur du problème, 
+- une solution, 
+- un DIAGRAMME, 
 - trois diamants/losanges
-- references to smaller patterns that are needed to complete a pattern. 
+- réferences aux patterns qui sont nécessaires pour compléter le pattern décrit. 
 
 
 ## ENSEMBLE STRUCTURÉ
 
 Un ensemble de patterns est structuré comme un langage (et pas une collection). La structure transparait par les liens entre les patterns.
 
+## DIAGRAMME
+
+Un diagramme est u
 
 ## PROCESSUS GÉNÉRATIF
 
