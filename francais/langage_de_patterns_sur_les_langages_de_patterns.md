@@ -13,10 +13,19 @@ un pattern est donc en fait un moyen de cartographier une sous partie d'un syst�
 
 L'intention d'un langage de PATTERNS, selon Alexander (1977) était de capturer le coeur/l'essence des solutions qui répondaient à des problèmes recurrents de conception en architecture et de fournir un processus et un langage que les architectes et non-architectes pourraient utiliser pour communiquer.
 
- Traditionnellement quand le savoir se transmettait de manière directe, il y avait des langages de pattern implicites (style GOTHIQUE, ROMAN, JARDIN A LA FRANCAISE, ARCHITECTURE PARISIENNE, ...) et parce qu'il étaient transmis directement, il n'y a pas besoin d'expliciter formellement les choses.
+Traditionnellement quand le savoir se transmettait de manière directe, il y avait des langages de pattern implicites (style GOTHIQUE, ROMAN, JARDIN A LA FRANCAISE, ARCHITECTURE PARISIENNE, ...) et parce qu'il étaient transmis directement, il n'y avait pas besoin d'expliciter formellement les choses.
 
-Parce que en architecture (et dans d'autres domaines) les experts se sont appropriés le monopole de la connaissance de leur art et que les usagers par manque de transmission directe et manque de confiance, nepossède plus ce savoir, Alexander a conçu et proposé la méthode des langages de pattern comme outil pour aider à rendre la CONNAISSANCE EXPLICITE et partageable.
+Parce que en architecture (et dans d'autres domaines) les experts se sont appropriés le monopole de la connaissance de leur art et que les usagers par manque de transmission directe et manque de confiance, ne possède plus ce savoir, Alexander a conçu et proposé la méthode des langages de pattern comme outil pour aider à rendre la CONNAISSANCE EXPLICITE, plus facilement communicable, discutable et partageable.
 
+De la même manière qu'un langage permet de combiner plusieurs de mots de plusieurs manière pour créer une infinité de phrases, un langage de pattern permet de manipuler/combiner des solutions et bonnes pratiques pour créer une infinité de solutions adaptées à chaque contexte local.
+
+Alexander insiste sur le fait qu'un langage de pattern est différent d'un collection de pattern. Il cite comme exemple la différence entre une liste de course et un poème. Dans un liste de course, chaque mot est independant des autres, tandis que dans un poème, les mots résonnent entre eux selon leur position pour faire émerger un sens supplémentaires.
+
+Une des difficultés rencontré par les créateurs de patterns a été d'arriver à produire des langages cohérents. Il ne suffit pas d'avoir une collection de pattern et de les assembler dans un ordre aléatoire. 
+
+En effet que ce soit en français, en anglais ou d'autres langues un langage possède une grammaire, une structure invisible mais néamoins respectée par les locuteurs et qui spécifie une façon d'agencer les mots. Par exemple on ne dit pas en français on ne dit pas "chien ici est", mais "le chien est ici" alors que dans d'autre langue ce pourra être le cas.
+
+parce qu'il utilise des mots le 
 
 
 
