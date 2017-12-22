@@ -1,16 +1,22 @@
 
+## PATTERNS
+
+En systémique un pattern est une configuration recurrente qui exprime une relation entre plusieurs éléments. 
 
 
+## LANGAGE DE PATTERNS
+
+L'intention d'un langage de PATTERNS, selon Alexander (1977) était de capturer le coeur de solutions à des problèmes recurrents de conception en architecture et de fournir un processus et un langage que les architectes et non-architectes pourraient utiliser pour communiquer.
+
+Un langage depattern est un outil qui aide a rendre la CONNAISSANCE EXPLICITE
 
 
-The intention of a pattern language, according to Alexander, (1977) was to capture the heart of
-solutions to recurring design problems in architecture and provide a process and a language that architects and non- architects could use to communicate.
 
 # ALEXANDRIAN PATTERNS
 
 Selon Alexander (1977), chaque pattern décrit: "un problème qui survient encore et encore dans un notre environnement, puis décrit l'essence de la solution à ce problème de telle manière à ce que l'on puisse utiliser cette solution un million de fois, sans jamais refaire exactement deux fois la même chose.
 
-chaque pattern d'alexander possède un FORMAT STRUCTURÉ et fait partie d'un ENSEMBLE STRUCTURÉ
+chaque pattern d'alexander possède un FORMAT STRUCTURÉ et fait partie d'un ENSEMBLE STRUCTURÉ (langage de pattern.
 
 ## FORMAT STRUCTURÉ ALEXANDER
 
@@ -22,6 +28,7 @@ Chacun des patterns d'Alexander contient les éléments suivants:
 - trois diamants/losanges (début du probleme), 
 - accroche (l'essence du problème) surlignée en gras
 - coeur du problème, 
+- Therefore:
 - essence de la solution, surlignée en gras
 - un DIAGRAMME, 
 - trois diamants/losanges
