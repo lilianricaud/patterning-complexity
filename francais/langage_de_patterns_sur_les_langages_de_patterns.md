@@ -34,20 +34,26 @@ un pattern est donc en fait un moyen de cartographier une sous partie d'un syst�
 
 En tant qu'outil, peuvent être vus comme une loupe ou un microscope, un moyen de focaliser individuellement ou collectivement sur un aspect ou un sous-aspect d'un système, afin l'examiner en détail. L'usager peut faire varier le niveau d'échelle à examiner, avec le risque de se perdre dans la quantité des détails.
 
-Alexander cherche à produire des pattern vivants/vivifiants, c'est à dire des pattern d'organisation qui augmente ce qu'il appelle la QUALITÉ SANS NOM dans les systèmes auxquels ils appartiennent.
+Alexander a proposé les PATTERNS et les LANGAGE DE PATTERNS comme un outil pour expliciter et documenter des solutions à des problèmes de conception (dans le domaine architecturale, mais la notion engloble l'aspect humain, sociologique et psychologique).
 
-Les suiveurs d'Alexander, notamment les informaticiens, ont plus tard renommés ces pattern "design pattern", ce qui était un bon moyen d'exprimer que ces pattern était orienté solution à de problèmes de conception. Pourtant en parallèle, il semble qu'ils n'aient garder que le coté "format utile pour décrire une bonne pratique" et qu'il aient perdu en cours de route l'aspect recherche de la QUALITÉ SANS NOM, peut être trop ésotérique ou difficile à mesurer. Celle ci étant décrite dans the Timeless Way of Building, ouvrage qui a été peu lu, peut etre qu'il n'en ont d'ailleurs jamais eu conscience de l'importance de cet aspect.
+Il a mené sa démarche en cherchant des solutions qui surviennenent de manière récurrentes dans différents contexte, sorte d'archétype de bonne pratiques.
 
-Ainsi pour résumer un PATTERN ALEXANDRIN se distingue d'une bonne pratique en ceci:
-- structure de description formelle
+Il est important de noter que, au dela de la simple solution technique, Alexander cherche à produire des pattern vivants/vivifiants, c'est à dire des pattern d'organisation qui augmente ce qu'il appelle la QUALITÉ SANS NOM dans les systèmes auxquels ils appartiennent.
+
+Les suiveurs d'Alexander, notamment les informaticiens, ont plus tard renommés ces pattern "design pattern", ce qui était un bon moyen d'exprimer que ces pattern était orienté solution à de problèmes de conception. 
+
+Pourtant en parallèle, il semble qu'ils n'aient garder que le coté "format utile pour décrire une bonne pratique" et qu'il aient perdu en cours de route l'aspect recherche de la QUALITÉ SANS NOM, peut être trop ésotérique ou difficile à mesurer. Celle ci étant décrite dans the Timeless Way of Building, ouvrage qui a été moins lu que son j, peut etre qu'il n'en ont d'ailleurs jamais eu conscience de l'importance de cet aspect.
+
+Ainsi pour résumer un PATTERN ALEXANDRIEN se distingue d'une bonne pratique en ceci:
+- exprime un archétype de solution à un problème de conception
+- possède une structure de description formelle 
 - exprime une relation/configuration
 - est à la fois assez large pour être utilisé dans différent contextes et assez précis pour guider
 - contribue à augmenter la QUALITÉ SANS NOM
 
 Un autre problème de confusion est que le pattern décrit à la fois le résultat/configuration à atteindre (une FENÊTRE, UN TOIT) et le moyen de l'atteindre. Pourtant ceci à ses limites. I est en effet tres difficile pour un novice de savoir à quel moment il faut décrire ou mettre en oeuvre tel pattern. Par quoi commencer ? Faut il spécifier la FENÊTRE avant le TOIT ? En pratique on peut specifier uniquement la taille de la FENÊTRE lorsque l'on monte les MURS, poser le TOIT puis spécifier plus en détail la forme de la FENÊTRE. Pour un constructeur avancé, ceci n'est pas handicapant, mais pour un débutant cela peut aboutir à des résultats désatreux. De fait plusieurs personnes ont décriés la méthode pour son incapacité à aboutir à des bons résultats.
 
-Alexander a tenté plus tard de remedier à cela en proposant des SÉQUENCES GÉNÉRATIVES, qu'il décrit comme de la version 2.0 des patterns et qui décrivent l'ordre dans lequel doivent être faites les choses
-
+Alexander a tenté plus tard de remedier à cela en proposant des SÉQUENCES GÉNÉRATIVES, qu'il décrit comme de la version 2.0 des patterns et qui décrivent l'ordre dans lequel doivent être faites les choses. Mais même lui a semble il échoué à produire de bonnes séquences génératives. Il est possible que ce soit du au fait que, comme tout système complexe, ces séquences doivent être générées elle même par un processus génératif.
  
 
 ## MOTS-PATTERNS
@@ -55,7 +61,7 @@ Alexander a tenté plus tard de remedier à cela en proposant des SÉQUENCES GÉ
 Les patterns tels que pensés et utilisés par Alexander pourraient être vu comme des mots "augmentés". Traditionnellement nous utilisons des mots et ces mots ont un sens, une définition. Ceci est vrai avec les MOTS-PATTERNS, à ceci près que la définition de ces mots est beaucoup plus formalisée avec notamment une structure de description précise (STRUCTURE PATTERNS ALEXANDRINS) qui est orientée solution à une problème de conception (ce qui n'est pas le cas d'un mot ordinaire) et qui décrit une configuration capable d'augmenter la QUALITÉ SANS NOM du système auquel il appartient.
 
 
-## STRUCTURE PATTERNS ALEXANDRINS
+## STRUCTURE PATTERNS ALEXANDRIENS
 
 Selon Alexander (1977), chaque pattern décrit: "un problème qui survient encore et encore dans un notre environnement, puis décrit l'essence de la solution à ce problème de telle manière à ce que l'on puisse utiliser cette solution un million de fois, sans jamais refaire exactement deux fois la même chose.
 
@@ -98,7 +104,11 @@ Un ensemble de patterns est structuré comme un langage (et pas une collection).
 
 ## DIAGRAMME
 
-Un diagramme est utile pour décrire les RELATIONS entre elements/patterns
+Un diagramme est utile pour décrire les RELATIONS entre elements/patterns de manière visuelle. Alexander à choisi de décrire les solutions indiquées dans un pattern en utilisant de manière systématique un diagramme.
+
+## CONFIGURATION RÉCURRENTE
+
+Une configuration est la disposition des différents éléments d’un tout. Dans les PATTERNS on cherche à identifier 
 
 ## PROCESSUS GÉNÉRATIF
 
