@@ -1,13 +1,27 @@
+## QUALITÉ SANS NOM
+
+harmonie subtile, degré de cohérence d'un système qui présente une forte capacité à s'auto-organiser pour se maintenir en équilibre, se réparer voire se complexifier (PROCESSUS GÉNÉRATIF)
 
 ## PATTERNS
 
-En systémique un pattern est une configuration recurrente qui exprime une relation entre plusieurs éléments. 
+Le mot pattern est un mot qui possède plusieurs niveaux de sens.
 
-Dans une perspective systémique, chaque "élément" n'est pas un objet isolé, mais peut être vu lui même comme un tissu de relation, donc un pattern.
+En lanage courant pattern peut se traduire comme patron (de couture, "ce qui guide"), trame, schéma, 
+
+En systémique un pattern est une **configuration recurrente** qui exprime une **relation** entre plusieurs éléments et qui est **caractéristique d'un système donné**.
+
+Dans une perspective systémique, chaque "élément" n'est jamais un objet isolé, mais peut être vu lui même comme un tissu de relation, donc un pattern. Ce coté FRACTAL des patterns est très important.
 
 un pattern est donc en fait un moyen de cartographier une sous partie d'un système, ce pattern pouvant lui même faire partie d'un pattern plus large qui décrit la relation entre les différents sous-patterns.
 
+Alexander cherche à produire des pattern vivants/vivifiants, c'est à dire des pattern d'organisation qui augmente ce qu'il appelle la QUALITÉ SANS NOM
 
+Alexandrian pattern or living/generative pattern: pattern of organization that enhance life/quality without a name within a particular system. Increase self-organization and system stability.
+
+Différence entre pattern et bonne pratique:
+- structure de description formelle
+- exprime une relation/configuration
+- est à la fois assez large pour être utilisé dans différent contextes et assez précis pour guider
 
 ## LANGAGE DE PATTERNS
 
@@ -58,7 +72,7 @@ problème/contexte
 par conséquent,
 solution
 
-pattern intégrés en MAJUSCULES
+Les autres patterns intégrés au texte sont écrits en MAJUSCULES pour disting
 
 flexibilité de la structure selon le besoin et le degré de maturité du pattern
 
