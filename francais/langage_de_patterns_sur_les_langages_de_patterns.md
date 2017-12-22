@@ -1,32 +1,6 @@
 ## QUALITÉ SANS NOM
 
-harmonie subtile, degré de cohérence d'un système qui présente une forte capacité à s'auto-organiser pour se maintenir en équilibre, se réparer, voire se complexifier avec ÉMERGENCE de propriétes nouvelles qui n'étaient pas présentes dans les parties isolées (PROCESSUS GÉNÉRATIF):
-
-## PATTERNS
-
-Le mot pattern est un mot qui possède plusieurs niveaux de sens ce qui peut créer de la confusion.
-
-En langage courant pattern peut se traduire comme patron (de couture, "ce qui guide"), trame, schéma, 
-
-En systémique un pattern est une **configuration recurrente** qui exprime une **relation** entre plusieurs éléments et qui est **caractéristique d'un système donné**.
-
-Dans une perspective systémique, chaque "élément" n'est jamais un objet isolé, mais peut être vu lui même comme un tissu de relation, donc un pattern. Ce coté FRACTAL des patterns est très important.
-
-un pattern est donc en fait un moyen de cartographier une sous partie d'un système, ce pattern pouvant lui même faire partie d'un pattern plus large qui décrit la relation entre les différents sous-patterns.
-
-Alexander cherche à produire des pattern vivants/vivifiants, c'est à dire des pattern d'organisation qui augmente ce qu'il appelle la QUALITÉ SANS NOM dans les systèmes auxquels ils appartiennent.
-
-Les suiveurs d'Alexander, notamment les informaticiens, ont plus tard renommés ces pattern "design pattern", ce qui était un bon moyen d'exprimer que ces pattern était orienté solution à de problèmes de conception. Pourtant en parallèle, il semble qu'ils n'aient garder que le coté "format utile pour décrire une bonne pratique" et qu'il aient perdu en cours de route l'aspect recherche de la QUALITÉ SANS NOM, peut être trop ésotérique ou difficile à mesurer. Celle ci étant décrite dans the Timeless Way of Building, ouvrage qui a été peu lu, peut etre qu'il n'en ont d'ailleurs jamais eu conscience de l'importance de cet aspect.
-
-Ainsi pour résumer un PATTERN ALEXANDRIN se distingue d'une bonne pratique en ceci:
-- structure de description formelle
-- exprime une relation/configuration
-- est à la fois assez large pour être utilisé dans différent contextes et assez précis pour guider
-- contribue à augmenter la QUALITÉ SANS NOM
-
-Un autre problème de confusion est que le pattern décrit à la fois le résultat/configuration à atteindre (une FENÊTRE, UN TOIT) et le moyen de l'atteindre. Pourtant ceci à ses limites. I est en effet tres difficile pour un novice de savoir à quel moment il faut décrire ou mettre en oeuvre tel pattern. Par quoi commencer ? Faut il spécifier la FENÊTRE avant le TOIT ? En pratique on peut specifier uniquement la taille de la FENÊTRE lorsque l'on monte les MURS, poser le TOIT puis spécifier plus en détail la forme de la FENÊTRE. Pour un constructeur avancé, ceci n'est pas handicapant, mais pour un débutant cela peut aboutir à des résultats désatreux. De fait plusieurs personnes ont décriés la méthode pour son incapacité à aboutir à des bons résultats.
-
-Alexander a tenté plus tard de remedier à cela en proposant des SÉQUENCES GÉNÉRATIVES, qu'il décrit comme de la version 2.0 des patterns et qui décrivent l'ordre dans lequel doivent être faites les choses
+harmonie subtile, degré de cohérence d'un système qui présente une forte capacité à s'auto-organiser pour se maintenir en équilibre, se réparer, voire se complexifier avec ÉMERGENCE de propriétes nouvelles qui n'étaient pas présentes dans les parties isolées (PROCESSUS GÉNÉRATIF).
 
 ## LANGAGE DE PATTERNS
 
@@ -44,7 +18,37 @@ Une des difficultés rencontré par les créateurs de patterns a été d'arriver
 
 En effet que ce soit en français, en anglais ou d'autres langues un langage possède une grammaire, une structure invisible mais néamoins respectée par les locuteurs et qui spécifie une façon d'agencer les mots. Par exemple on ne dit pas en français on ne dit pas "chien ici est", mais "le chien est ici" alors que dans d'autre langue ce pourra être le cas.
 
-parce qu'il utilise des mots et un NOM EXPLICITE les MOTS-PATTERNS sont manipulables comme des mots ordinaires et peuvent être facilement utilisés pour communiquer en groupe. 
+parce qu'il utilise des mots et un NOM EXPLICITE les MOTS-PATTERNS sont manipulables comme des mots ordinaires et peuvent être facilement utilisés pour communiquer en groupe.
+
+## PATTERNS
+
+Le mot pattern est un mot qui possède plusieurs niveaux de sens ce qui peut créer de la confusion.
+
+En langage courant pattern peut se traduire comme patron (de couture, "ce qui guide"), trame, schéma, 
+
+En systémique un pattern est une **configuration recurrente** qui exprime une **relation** entre plusieurs éléments et qui est **caractéristique d'un système donné**.
+
+Dans une perspective systémique, chaque "élément" n'est jamais un objet isolé, mais peut être vu lui même comme un tissu de relation, donc un pattern. Ce coté FRACTAL des patterns est très important.
+
+un pattern est donc en fait un moyen de cartographier une sous partie d'un système, ce pattern pouvant lui même faire partie d'un pattern plus large qui décrit la relation entre les différents sous-patterns.
+
+En tant qu'outil, peuvent être vus comme une loupe ou un microscope, un moyen de focaliser individuellement ou collectivement sur un aspect ou un sous-aspect d'un système, afin l'examiner en détail. L'usager peut faire varier le niveau d'échelle à examiner, avec le risque de se perdre dans la quantité des détails.
+
+Alexander cherche à produire des pattern vivants/vivifiants, c'est à dire des pattern d'organisation qui augmente ce qu'il appelle la QUALITÉ SANS NOM dans les systèmes auxquels ils appartiennent.
+
+Les suiveurs d'Alexander, notamment les informaticiens, ont plus tard renommés ces pattern "design pattern", ce qui était un bon moyen d'exprimer que ces pattern était orienté solution à de problèmes de conception. Pourtant en parallèle, il semble qu'ils n'aient garder que le coté "format utile pour décrire une bonne pratique" et qu'il aient perdu en cours de route l'aspect recherche de la QUALITÉ SANS NOM, peut être trop ésotérique ou difficile à mesurer. Celle ci étant décrite dans the Timeless Way of Building, ouvrage qui a été peu lu, peut etre qu'il n'en ont d'ailleurs jamais eu conscience de l'importance de cet aspect.
+
+Ainsi pour résumer un PATTERN ALEXANDRIN se distingue d'une bonne pratique en ceci:
+- structure de description formelle
+- exprime une relation/configuration
+- est à la fois assez large pour être utilisé dans différent contextes et assez précis pour guider
+- contribue à augmenter la QUALITÉ SANS NOM
+
+Un autre problème de confusion est que le pattern décrit à la fois le résultat/configuration à atteindre (une FENÊTRE, UN TOIT) et le moyen de l'atteindre. Pourtant ceci à ses limites. I est en effet tres difficile pour un novice de savoir à quel moment il faut décrire ou mettre en oeuvre tel pattern. Par quoi commencer ? Faut il spécifier la FENÊTRE avant le TOIT ? En pratique on peut specifier uniquement la taille de la FENÊTRE lorsque l'on monte les MURS, poser le TOIT puis spécifier plus en détail la forme de la FENÊTRE. Pour un constructeur avancé, ceci n'est pas handicapant, mais pour un débutant cela peut aboutir à des résultats désatreux. De fait plusieurs personnes ont décriés la méthode pour son incapacité à aboutir à des bons résultats.
+
+Alexander a tenté plus tard de remedier à cela en proposant des SÉQUENCES GÉNÉRATIVES, qu'il décrit comme de la version 2.0 des patterns et qui décrivent l'ordre dans lequel doivent être faites les choses
+
+ 
 
 ## MOTS-PATTERNS
 
