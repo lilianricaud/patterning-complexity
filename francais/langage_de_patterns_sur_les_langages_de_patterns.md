@@ -1,6 +1,6 @@
 ## QUALITÉ SANS NOM
 
-harmonie subtile, degré de cohérence d'un système qui présente une forte capacité à s'auto-organiser pour se maintenir en équilibre, se réparer voire se complexifier (PROCESSUS GÉNÉRATIF)
+harmonie subtile, degré de cohérence d'un système qui présente une forte capacité à s'auto-organiser pour se maintenir en équilibre, se réparer, voire se complexifier avec ÉMERGENCE de propriétes nouvelles qui n'étaient pas présentes dans les parties isolées (PROCESSUS GÉNÉRATIF):
 
 ## PATTERNS
 
@@ -24,7 +24,9 @@ Ainsi pour résumer un PATTERN ALEXANDRIN se distingue d'une bonne pratique en c
 - est à la fois assez large pour être utilisé dans différent contextes et assez précis pour guider
 - contribue à augmenter la QUALITÉ SANS NOM
 
-Un autre problème de confusion est que le pattern décrit à la fois le résultat/configuration à atteindre (une FENÊTRE, UN TOIT) et le moyen de l'atteindre. Pourtant ceci à ses limites. I est en effet tres difficile pour un novice de savoir à quel moment il faut décrire ou mettre en oeuvre tel pattern. Par quoi commencer ? Faut il spécifier la FENÊTRE avant le TOIT ? En pratique on peut specifier uniquement la taille de la FENÊTRE lorsque l'on monte les MURS, poser le TOIT puis spécifier plus en détail la forme de la FENÊTRE. Pour un constructeur avancé, ceci n'est pas handic
+Un autre problème de confusion est que le pattern décrit à la fois le résultat/configuration à atteindre (une FENÊTRE, UN TOIT) et le moyen de l'atteindre. Pourtant ceci à ses limites. I est en effet tres difficile pour un novice de savoir à quel moment il faut décrire ou mettre en oeuvre tel pattern. Par quoi commencer ? Faut il spécifier la FENÊTRE avant le TOIT ? En pratique on peut specifier uniquement la taille de la FENÊTRE lorsque l'on monte les MURS, poser le TOIT puis spécifier plus en détail la forme de la FENÊTRE. Pour un constructeur avancé, ceci n'est pas handicapant, mais pour un débutant cela peut aboutir à des résultats désatreux. De fait plusieurs personnes ont décriés la méthode pour son incapacité à aboutir à des bons résultats.
+
+Alexander a tenté plus tard de remedier à cela en proposant des SÉQUENCES GÉNÉRATIVES, qu'il décrit comme de la version 2.0 des patterns et qui décrivent l'ordre dans lequel doivent être faites les choses
 
 ## LANGAGE DE PATTERNS
 
@@ -102,7 +104,7 @@ Dans ses écrits, alexander insite sur l'importance du processsus qui conduit à
 
 Par conséquent,
 
-Pour inventer un lanage de pattern, mettez en place un PROCESSUS GÉNÉRATIF
+Pour inventer un lanage de pattern, mettez en place un PROCESSUS GÉNÉRATIF: plusieurs ITÉRATIONS, CO-CONSTRUCTION, usage de technique faisant émerge un FUTUR SOUHAITABLE
  
 
 ## NOM EXPLICITE
@@ -114,4 +116,13 @@ Pour inventer un lanage de pattern, mettez en place un PROCESSUS GÉNÉRATIF
 
 
 ## CO-CONSTRUCTION
+
+## SÉQUENCES GÉNÉRATIVES
+
+qu'il décrit comme de la version 2.0 des patterns et qui décrivent l'ordre dans lequel doivent être faites les choses. Ces séquences elle même doivent être pensées et conçues via un PROCESSUS GÉNÉRATIF.
+
+Si les patterns peuvent être vus comme des ingrédients, les SÉQUENCES GÉNÉRATIVES peuvent être vus comme des recettes, décrivant la chronologie et la manière dans laquelle ces ingrédients doivent être assemblés.
+
+Une autre façon de voir les séquences génératives: les patterns décrivant une configuration spatiale, une topologie, les séquences génératives une configuration spatio-temporelle (combinaison de patterns spatiaux et patterns temporels).
+
 
