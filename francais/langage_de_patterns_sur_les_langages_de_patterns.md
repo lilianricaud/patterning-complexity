@@ -2,6 +2,8 @@
 
 harmonie subtile, degré de cohérence d'un système qui présente une forte capacité à s'auto-organiser pour se maintenir en équilibre, se réparer, voire se complexifier avec ÉMERGENCE de propriétes nouvelles qui n'étaient pas présentes dans les parties isolées (PROCESSUS GÉNÉRATIF).
 
+## DEGRÉ DE VIE
+
 ## LANGAGE DE PATTERNS
 
 L'intention d'un langage de PATTERNS, selon Alexander (1977) était de capturer le coeur/l'essence des solutions qui répondaient à des problèmes recurrents de conception en architecture et de fournir un processus et un langage que les architectes et non-architectes pourraient utiliser pour communiquer.
@@ -132,7 +134,7 @@ Dans ses écrits, Alexander insiste sur l'importance du processsus qui conduit �
 
 Par conséquent,
 
-Pour inventer un lanage de pattern, mettez en place un PROCESSUS GÉNÉRATIF: plusieurs ITÉRATIONS, CO-CONSTRUCTION, usage de technique faisant émerge le RESSENTI/INTUITION des usagers (par exemple imaginer un FUTUR SOUHAITABLE)
+Pour inventer un lanage de pattern, mettez en place un PROCESSUS GÉNÉRATIF: plusieurs ITÉRATIONS, CO-CONSTRUCTION, usage de techniques faisant émerge le RESSENTI/INTUITION des usagers (par exemple imaginer un FUTUR SOUHAITABLE, TESTS PHOTOS COMPARATIFS)
  
 
 
@@ -142,11 +144,15 @@ Comme tout système complexe, un PATTERN et un LANGAGE DE PATTERNS doivent évol
 
 ## CO-CONSTRUCTION
 
-Un LANGAGE DE PATTERN sera d'autant plus puissant qu'il sera co-construit/explicité/miné avec les usagers concernés, et qui sont assez sur le terrain pour comprendre la réalité, a minima de manière intuituive (INTUITION).
+Un LANGAGE DE PATTERN sera d'autant plus puissant qu'il sera co-construit/explicité/miné avec les usagers concernés, et qui sont assez sur le terrain pour comprendre la réalité, a minima de manière intuitive (RESSENTI ET INTUITION).
 
-## RESSENTI/INTUITION
+## RESSENTI ET INTUITION
 
-Un 
+Un des aspects qui distingue le plus Alexander des autre spersonnes impliqués dans les questions de conception est son usage de RESSENTI ET INTUITION pour dinstinguer le DEGRÉ DE VIE d'un système. 
+
+Il utilise cela dans ses entretiens avec les clients et usagers,  dans ses TESTS PHOTOS COMPARATIFS et de manière plus générale dans sa démarche.
+
+De manière rationnelle 
 
 ## SÉQUENCES GÉNÉRATIVES
 
@@ -155,6 +161,8 @@ qu'il décrit comme de la version 2.0 des patterns et qui décrivent l'ordre dan
 Si les patterns peuvent être vus comme des ingrédients, les SÉQUENCES GÉNÉRATIVES peuvent être vus comme des recettes, décrivant la chronologie et la manière dans laquelle ces ingrédients doivent être assemblés.
 
 Une autre façon de voir les séquences génératives: les patterns décrivant une configuration spatiale, une topologie, les séquences génératives une configuration spatio-temporelle (combinaison de patterns spatiaux et patterns temporels).
+
+# OUTILS
 
 ## CARTES PATTERNS PAPIERS
 
@@ -171,3 +179,7 @@ Plus tangibles que les supports numériques, les CARTES PATTERNS PAPIERS sont fa
 Plus solides que les POST-IT standards Les CARTES PAPIERS sont plus durables,  plus substantielles et permettent de conserver l'information issues des premières ITÉRATIONS.
 
 Permettent de manipuler indivuellement ou collectivement l'information de manière visuelle.
+
+## TESTS PHOTOS COMPARATIFS
+
+## FUTUR SOUHAITABLE
