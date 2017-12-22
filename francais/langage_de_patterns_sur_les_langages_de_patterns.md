@@ -2,7 +2,15 @@
 
 harmonie subtile, degré de cohérence d'un système qui présente une forte capacité à s'auto-organiser pour se maintenir en équilibre, se réparer, voire se complexifier avec ÉMERGENCE de propriétes nouvelles qui n'étaient pas présentes dans les parties isolées (PROCESSUS GÉNÉRATIF).
 
-## DEGRÉ DE VIE
+## DEGRÉ DE VIE RELATIF
+
+Un des points clé des théories d'Alexander est la notion de DEGRÉ DE VIE RELATIF. Pour Alexander, toute chose, tout objet, tout système possède un certain degré de vie. Il ne s'agit pas de vie au sens biologique du terme, mais d'une notion SUBJECTIVE déterminée par des teste faisant appel au RESSENTI ET INTUITION. 
+
+Selon Alexander, un caillou, un point d'eau, une maison, peuvent avoir un degré de vie plus important qu'un autre de leur homologue a priori équivalent.
+
+Dans ses derniers travaux, Alexander a proposé que le degré de vie est lié à la présence de CENTRES eux même ayant un fort degré de vie relatif et faisant partie d'autres centres relativement vivants.
+
+Le degré de vie de ces centre est lui même lié à la présence des 15 PROPRIÉTÉS/TRANSFORMATIONS
 
 ## LANGAGE DE PATTERNS
 
@@ -57,7 +65,12 @@ Ainsi pour résumer un PATTERN ALEXANDRIEN se distingue d'une bonne pratique en 
 Un autre problème de confusion est que le pattern décrit à la fois le résultat/configuration à atteindre (une FENÊTRE, UN TOIT) et le moyen de l'atteindre. Pourtant ceci à ses limites. I est en effet tres difficile pour un novice de savoir à quel moment il faut décrire ou mettre en oeuvre tel pattern. Par quoi commencer ? Faut il spécifier la FENÊTRE avant le TOIT ? En pratique on peut specifier uniquement la taille de la FENÊTRE lorsque l'on monte les MURS, poser le TOIT puis spécifier plus en détail la forme de la FENÊTRE. Pour un constructeur avancé, ceci n'est pas handicapant, mais pour un débutant cela peut aboutir à des résultats désatreux. De fait plusieurs personnes ont décriés la méthode pour son incapacité à aboutir à des bons résultats.
 
 Alexander a tenté plus tard de remédier à cela en proposant des SÉQUENCES GÉNÉRATIVES, qu'il décrit comme de la version 2.0 des patterns et qui décrivent l'ordre dans lequel doivent être faites les choses. Mais même lui a semble il échoué à produire de bonnes séquences génératives. Il est possible que ce soit du au fait que, comme tout système complexe, ces séquences doivent être générées elles-mêmes par un PROCESSUS GÉNÉRATIF.
- 
+
+Dans ses derniers travaux il a proposé une nouvelle théorie qui englobe et va au dela des patterns. Cette théorie des CENTRES et des 15 PROPRIÉTÉS/TRANSFORMATIONS
+
+## CENTRES
+
+## 15 PROPRIÉTÉS/TRANSFORMATIONS
 
 ## MOTS-PATTERNS
 
