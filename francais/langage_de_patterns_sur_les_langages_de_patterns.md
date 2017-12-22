@@ -12,7 +12,7 @@ Selon Alexander (1977), chaque pattern décrit: "un problème qui survient encor
 
 chaque pattern d'alexander possède un FORMAT STRUCTURÉ et fait partie d'un ENSEMBLE STRUCTURÉ
 
-## FORMAT STRUCTURÉ 
+## FORMAT STRUCTURÉ ALEXANDER
 
 Chacun des patterns d'Alexander contient les éléments suivants:
 - un NOM EXPLICITE
@@ -20,23 +20,41 @@ Chacun des patterns d'Alexander contient les éléments suivants:
 - une image 
 - un paragraphe d'introduction (pose le contexte et explique comment le pattern décrit aide à compléter des patterns plus larges), 
 - trois diamants/losanges (début du probleme), 
-- headline (the essence of the problem),
+- headline (l'essence du problème),
 - coeur du problème, 
 - une solution, 
 - un DIAGRAMME, 
 - trois diamants/losanges
 - réferences aux patterns qui sont nécessaires pour compléter le pattern décrit. 
 
+## FORMAT STRUCTURÉ LILIAN
 
-## ENSEMBLE STRUCTURÉ
+problème/contexte
+par conséquent,
+solution
+
+pattern intégrés en MAJUSCULES
+
+flexibilité de la structure selon le besoin et le degré de maturité du pattern
+
+## LANGAGE/ENSEMBLE STRUCTURÉ
 
 Un ensemble de patterns est structuré comme un langage (et pas une collection). La structure transparait par les liens entre les patterns.
 
 ## DIAGRAMME
 
-Un diagramme est u
+Un diagramme est utile pour décrire les RELATIONS entre elements/patterns
 
 ## PROCESSUS GÉNÉRATIF
+
+La plupart des langages depatterns ne sont pas vivant et ressemblent plus à une collection de bonnes pratiques, sans connexion entre elle et forme pas un LANGAGE/ENSEMBLE STRUCTURÉ.
+
+Dans ses écrits, alexander insite sur l'importance du processsus qui conduit à la création des patterns. Un processus mortifère donnera un langage mortifère. Pour créer un langage vivant, il est nécessaire d'avoir un processus vivant.
+
+Par conséquent,
+
+Pour inventer un lanage de pattern, mettez en place un PROCESSUS GÉNÉRATIF
+ 
 
 ## NOM EXPLICITE
 
