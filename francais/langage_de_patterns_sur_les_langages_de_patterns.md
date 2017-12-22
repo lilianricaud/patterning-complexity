@@ -14,9 +14,8 @@ Dans une perspective systémique, chaque "élément" n'est jamais un objet isol�
 
 un pattern est donc en fait un moyen de cartographier une sous partie d'un système, ce pattern pouvant lui même faire partie d'un pattern plus large qui décrit la relation entre les différents sous-patterns.
 
-Alexander cherche à produire des pattern vivants/vivifiants, c'est à dire des pattern d'organisation qui augmente ce qu'il appelle la QUALITÉ SANS NOM
+Alexander cherche à produire des pattern vivants/vivifiants, c'est à dire des pattern d'organisation qui augmente ce qu'il appelle la QUALITÉ SANS NOM dans les systèmes auxquels ils appartiennent.
 
-Alexandrian pattern or living/generative pattern: pattern of organization that enhance life/quality without a name within a particular system. Increase self-organization and system stability.
 
 Différence entre pattern et bonne pratique:
 - structure de description formelle
@@ -39,18 +38,19 @@ Une des difficultés rencontré par les créateurs de patterns a été d'arriver
 
 En effet que ce soit en français, en anglais ou d'autres langues un langage possède une grammaire, une structure invisible mais néamoins respectée par les locuteurs et qui spécifie une façon d'agencer les mots. Par exemple on ne dit pas en français on ne dit pas "chien ici est", mais "le chien est ici" alors que dans d'autre langue ce pourra être le cas.
 
-parce qu'il utilise des mots le 
+parce qu'il utilise des mots et un NOM EXPLICITE les MOTS-PATTERNS sont manipulables comme des mots ordinaires et peuvent être facilement utilisés pour communiquer en groupe. 
+
+## MOTS-PATTERNS
+
+Les patterns tels que pensés et utilisés par Alexander pourraient être vu comme des mots "augmentés". Traditionnellement nous utilisons des mots et ces mots ont un sens, une définition. Ceci est vrai avec les MOTS-PATTERNS, à ceci près que la définition de ces mots est beaucoup plus formalisée avec notamment une structure de description précise (STRUCTURE PATTERNS ALEXANDRINS) qui est orientée solution à une problème de conception (ce qui n'est pas le cas d'un mot ordinaire) et qui décrit une configuration capable d'augmenter la QUALITÉ SANS NOM du système auquel il appartient.
 
 
-
-
-# ALEXANDRIAN PATTERNS
+## STRUCTURE PATTERNS ALEXANDRINS
 
 Selon Alexander (1977), chaque pattern décrit: "un problème qui survient encore et encore dans un notre environnement, puis décrit l'essence de la solution à ce problème de telle manière à ce que l'on puisse utiliser cette solution un million de fois, sans jamais refaire exactement deux fois la même chose.
 
 chaque pattern d'alexander possède un FORMAT STRUCTURÉ et fait partie d'un ENSEMBLE STRUCTURÉ (langage de pattern.
 
-## FORMAT STRUCTURÉ ALEXANDER
 
 Chacun des patterns d'Alexander contient les éléments suivants:
 - un NOM EXPLICITE
@@ -66,17 +66,21 @@ Chacun des patterns d'Alexander contient les éléments suivants:
 - trois diamants/losanges
 - réferences aux patterns qui sont nécessaires pour compléter le pattern décrit. 
 
-## FORMAT STRUCTURÉ LILIAN
+## STRUCTURE PATTERNS LILIAN
 
-problème/contexte
+(problème/contexte)
 par conséquent,
 solution
 
-Les autres patterns intégrés au texte sont écrits en MAJUSCULES pour disting
+Les autres patterns intégrés au texte sont écrits en MAJUSCULES pour distinger les MOTS-PATTERNS des mots ordinaires
 
 flexibilité de la structure selon le besoin et le degré de maturité du pattern
 
-le titre est un NOM pas un verbe.
+le titre est un NOM pas un verbe ce qui permet la combinaison dans une perspective de communication via le langage de parlé oralement ou par écrit.
+
+usage de CARTES PAPIERS pour manipuler les MOTS PATTERNS seul ou à plusieurs.
+souvent je fais abstraction de la description du contexte et du problème (au moins au démarrage) pour focaliser sur l'expression de la solution.
+à la fin j'essaye de verifier que mon pattern exprime bien une configuration/relation.
 
 ## LANGAGE/ENSEMBLE STRUCTURÉ
 
