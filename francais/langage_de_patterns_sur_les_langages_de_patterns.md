@@ -42,14 +42,15 @@ Il est important de noter que, au dela de la simple solution technique, Alexande
 
 Les suiveurs d'Alexander, notamment les informaticiens, ont plus tard renommés ces pattern "design pattern", ce qui était un bon moyen d'exprimer que ces pattern était orienté solution à de problèmes de conception. 
 
-Pourtant en parallèle, il semble qu'ils n'aient garder que le coté "format utile pour décrire une bonne pratique" et qu'il aient perdu en cours de route l'aspect recherche de la QUALITÉ SANS NOM, peut être trop ésotérique ou difficile à mesurer. Celle ci étant décrite dans the Timeless Way of Building, ouvrage qui a été moins lu que son j, peut etre qu'il n'en ont d'ailleurs jamais eu conscience de l'importance de cet aspect.
+Pourtant en parallèle, il semble qu'ils n'aient garder que le coté "format utile pour décrire une bonne pratique" et qu'il aient perdu en cours de route l'aspect recherche de la QUALITÉ SANS NOM, peut être trop ésotérique ou difficile à mesurer. Celle ci étant décrite dans *the Timeless Way of Building*, ouvrage qui a été moins lu que son jumeau *A Pattern Language*, peut etre qu'il n'en ont d'ailleurs jamais eu conscience de l'importance de cet aspect.
 
 Ainsi pour résumer un PATTERN ALEXANDRIEN se distingue d'une bonne pratique en ceci:
-- exprime un archétype de solution à un problème de conception
-- possède une structure de description formelle 
-- exprime une relation/configuration
-- est à la fois assez large pour être utilisé dans différent contextes et assez précis pour guider
-- contribue à augmenter la QUALITÉ SANS NOM
+- il exprime un *archétype* de solution à un problème de conception
+- il est une *trame* de solution, qui est à la fois assez large pour être utilisé dans différent contextes et assez précis pour guider
+- il possède une *structure de description formelle* assez autosuffisante encapsulant le contexte dans lequels la solution est applicable et la raison pour laquelle elle fonctionne
+- il exprime une relation/configuration (spatiale, temporelle, psychologique,... )
+- il contribue à augmenter la QUALITÉ SANS NOM
+- il peut être utilisé comme langage de communication en utilisant les MOT-PATTERN aussi simplement que le langage naturel.
 
 Un autre problème de confusion est que le pattern décrit à la fois le résultat/configuration à atteindre (une FENÊTRE, UN TOIT) et le moyen de l'atteindre. Pourtant ceci à ses limites. I est en effet tres difficile pour un novice de savoir à quel moment il faut décrire ou mettre en oeuvre tel pattern. Par quoi commencer ? Faut il spécifier la FENÊTRE avant le TOIT ? En pratique on peut specifier uniquement la taille de la FENÊTRE lorsque l'on monte les MURS, poser le TOIT puis spécifier plus en détail la forme de la FENÊTRE. Pour un constructeur avancé, ceci n'est pas handicapant, mais pour un débutant cela peut aboutir à des résultats désatreux. De fait plusieurs personnes ont décriés la méthode pour son incapacité à aboutir à des bons résultats.
 
@@ -108,13 +109,13 @@ Un diagramme est utile pour décrire les RELATIONS entre elements/patterns de ma
 
 ## CONFIGURATION RÉCURRENTE
 
-Une configuration est la disposition des différents éléments d’un tout. Dans les PATTERNS on cherche à identifier 
+Une configuration est la disposition des différents éléments d’un tout. Dans les PATTERNS on cherche à identifier les RELATIONS entre les élements. Les PATTERNS ALEXANDRIENS expriment donc souvent une relation spatiale (TOIT *au dessus* des MURS, PLACE *au centre* du VILLAGE) 
 
 ## PROCESSUS GÉNÉRATIF
 
-La plupart des langages depatterns ne sont pas vivant et ressemblent plus à une collection de bonnes pratiques, sans connexion entre elle et forme pas un LANGAGE/ENSEMBLE STRUCTURÉ.
+La plupart des langages de patterns ne sont pas vivants et ressemblent plus à une collection de bonnes pratiques, sans connexions entre elles et ne forment pas un LANGAGE/ENSEMBLE STRUCTURÉ.
 
-Dans ses écrits, alexander insite sur l'importance du processsus qui conduit à la création des patterns. Un processus mortifère donnera un langage mortifère. Pour créer un langage vivant, il est nécessaire d'avoir un processus vivant.
+Dans ses écrits, Alexander insiste sur l'importance du processsus qui conduit à la création des patterns. Un processus mortifère donnera un langage mortifère. Pour créer un langage vivant, il est nécessaire d'avoir un processus vivant.
 
 Par conséquent,
 
@@ -123,11 +124,12 @@ Pour inventer un lanage de pattern, mettez en place un PROCESSUS GÉNÉRATIF: pl
 
 ## NOM EXPLICITE
 
-- Le titre décrit une partie de la bonne pratique/solution
-- le titre est un NOM pas un verbe.
+Le titre d'un PATTERN ALEXANDRIEN est un NOM et non pas un verbe, ce qui permet de composer des phrases de patterns dans un langage naturel. Le nom est assez auto-plicatif pour avoir un sens explicite qui donne déja une idée de la solution.
+
 
 ## ITÉRATIONS
 
+Comme tout système complexe, un PATTERN et un LANGAGE DE PATTERNS
 
 ## CO-CONSTRUCTION
 
