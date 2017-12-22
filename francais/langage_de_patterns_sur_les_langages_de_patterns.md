@@ -49,18 +49,25 @@ Ainsi pour résumer un PATTERN ALEXANDRIEN se distingue d'une bonne pratique en 
 - il est une *trame* de solution, qui est à la fois assez large pour être utilisé dans différent contextes et assez précis pour guider
 - il possède une *structure de description formelle* assez autosuffisante encapsulant le contexte dans lequels la solution est applicable et la raison pour laquelle elle fonctionne
 - il exprime une relation/configuration (spatiale, temporelle, psychologique,... )
-- il contribue à augmenter la QUALITÉ SANS NOM
+- il contribue à augmenter la QUALITÉ SANS NOM et les meilleurs sont validés par le RESSENTI/INTUITION
 - il peut être utilisé comme langage de communication en utilisant les MOT-PATTERN aussi simplement que le langage naturel.
 
 Un autre problème de confusion est que le pattern décrit à la fois le résultat/configuration à atteindre (une FENÊTRE, UN TOIT) et le moyen de l'atteindre. Pourtant ceci à ses limites. I est en effet tres difficile pour un novice de savoir à quel moment il faut décrire ou mettre en oeuvre tel pattern. Par quoi commencer ? Faut il spécifier la FENÊTRE avant le TOIT ? En pratique on peut specifier uniquement la taille de la FENÊTRE lorsque l'on monte les MURS, poser le TOIT puis spécifier plus en détail la forme de la FENÊTRE. Pour un constructeur avancé, ceci n'est pas handicapant, mais pour un débutant cela peut aboutir à des résultats désatreux. De fait plusieurs personnes ont décriés la méthode pour son incapacité à aboutir à des bons résultats.
 
-Alexander a tenté plus tard de remedier à cela en proposant des SÉQUENCES GÉNÉRATIVES, qu'il décrit comme de la version 2.0 des patterns et qui décrivent l'ordre dans lequel doivent être faites les choses. Mais même lui a semble il échoué à produire de bonnes séquences génératives. Il est possible que ce soit du au fait que, comme tout système complexe, ces séquences doivent être générées elle même par un processus génératif.
+Alexander a tenté plus tard de remédier à cela en proposant des SÉQUENCES GÉNÉRATIVES, qu'il décrit comme de la version 2.0 des patterns et qui décrivent l'ordre dans lequel doivent être faites les choses. Mais même lui a semble il échoué à produire de bonnes séquences génératives. Il est possible que ce soit du au fait que, comme tout système complexe, ces séquences doivent être générées elles-mêmes par un PROCESSUS GÉNÉRATIF.
  
 
 ## MOTS-PATTERNS
 
-Les patterns tels que pensés et utilisés par Alexander pourraient être vu comme des mots "augmentés". Traditionnellement nous utilisons des mots et ces mots ont un sens, une définition. Ceci est vrai avec les MOTS-PATTERNS, à ceci près que la définition de ces mots est beaucoup plus formalisée avec notamment une structure de description précise (STRUCTURE PATTERNS ALEXANDRINS) qui est orientée solution à une problème de conception (ce qui n'est pas le cas d'un mot ordinaire) et qui décrit une configuration capable d'augmenter la QUALITÉ SANS NOM du système auquel il appartient.
+Les patterns tels que pensés et utilisés par Alexander pourraient être vu comme des mots "augmentés". 
 
+Traditionnellement nous utilisons des mots et ces mots ont un sens, une définition. 
+
+Ceci est vrai avec les MOTS-PATTERNS, à ceci près que la définition de ces mots est beaucoup plus formalisée avec notamment une structure de description précise (STRUCTURE PATTERNS ALEXANDRIENS) qui est orientée solution à une problème de conception (ce qui n'est pas le cas d'un mot ordinaire) et qui décrit une configuration capable d'augmenter la QUALITÉ SANS NOM du système auquel il appartient.
+
+Si ces MOTS-PATTERNS sont potentiellement plus profonds et plus rafinés que des mots ordinaires, ils peuvent en revanche être utilisés aussi simplement que des mots ordinaires pour communiquer des idées.
+
+À l'écrit, il est possible de mettre en majuscules les MOTS-PATTERNS afin de les rendre plus faciles à distinguer.
 
 ## STRUCTURE PATTERNS ALEXANDRIENS
 
@@ -72,7 +79,7 @@ chaque pattern d'alexander possède un FORMAT STRUCTURÉ et fait partie d'un ENS
 Chacun des patterns d'Alexander contient les éléments suivants:
 - un NOM EXPLICITE
 - un numéro
-- une image 
+- une image qui illustre et donne un RESSENTI du pattern
 - un paragraphe d'introduction (pose le contexte et explique comment le pattern décrit aide à compléter des patterns plus larges), 
 - trois diamants/losanges (début du probleme), 
 - accroche (l'essence du problème) surlignée en gras
@@ -105,11 +112,17 @@ Un ensemble de patterns est structuré comme un langage (et pas une collection).
 
 ## DIAGRAMME
 
-Un diagramme est utile pour décrire les RELATIONS entre elements/patterns de manière visuelle. Alexander à choisi de décrire les solutions indiquées dans un pattern en utilisant de manière systématique un diagramme.
+Un diagramme est utile pour décrire les RELATIONS entre elements/patterns de manière visuelle. Alexander à choisi de décrire les solutions indiquées dans un pattern en associant de manière systématique un diagramme à son explication textuelle.
 
 ## CONFIGURATION RÉCURRENTE
 
 Une configuration est la disposition des différents éléments d’un tout. Dans les PATTERNS on cherche à identifier les RELATIONS entre les élements. Les PATTERNS ALEXANDRIENS expriment donc souvent une relation spatiale (TOIT *au dessus* des MURS, PLACE *au centre* du VILLAGE) 
+
+
+## NOM EXPLICITE
+
+Le titre d'un PATTERN ALEXANDRIEN est un NOM et non pas un verbe, ce qui permet de composer des phrases de patterns dans un langage naturel. Le nom est assez auto-plicatif pour avoir un sens explicite qui donne déja une idée de la solution.
+
 
 ## PROCESSUS GÉNÉRATIF
 
@@ -119,19 +132,21 @@ Dans ses écrits, Alexander insiste sur l'importance du processsus qui conduit �
 
 Par conséquent,
 
-Pour inventer un lanage de pattern, mettez en place un PROCESSUS GÉNÉRATIF: plusieurs ITÉRATIONS, CO-CONSTRUCTION, usage de technique faisant émerge un FUTUR SOUHAITABLE
+Pour inventer un lanage de pattern, mettez en place un PROCESSUS GÉNÉRATIF: plusieurs ITÉRATIONS, CO-CONSTRUCTION, usage de technique faisant émerge le RESSENTI/INTUITION des usagers (par exemple imaginer un FUTUR SOUHAITABLE)
  
-
-## NOM EXPLICITE
-
-Le titre d'un PATTERN ALEXANDRIEN est un NOM et non pas un verbe, ce qui permet de composer des phrases de patterns dans un langage naturel. Le nom est assez auto-plicatif pour avoir un sens explicite qui donne déja une idée de la solution.
 
 
 ## ITÉRATIONS
 
-Comme tout système complexe, un PATTERN et un LANGAGE DE PATTERNS
+Comme tout système complexe, un PATTERN et un LANGAGE DE PATTERNS doivent évoluer étape par étape pour obtenir une certaine qualité, une complexité source de productivité.
 
 ## CO-CONSTRUCTION
+
+Un LANGAGE DE PATTERN sera d'autant plus puissant qu'il sera co-construit/explicité/miné avec les usagers concernés, et qui sont assez sur le terrain pour comprendre la réalité, a minima de manière intuituive (INTUITION).
+
+## RESSENTI/INTUITION
+
+Un 
 
 ## SÉQUENCES GÉNÉRATIVES
 
