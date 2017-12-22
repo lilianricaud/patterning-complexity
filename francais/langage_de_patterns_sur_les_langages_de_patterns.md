@@ -118,7 +118,11 @@ Un ensemble de patterns est structuré comme un langage (et pas une collection).
 
 ## STRUCTURE HYPERTEXTE
 
-Internet et le web a amené une révolution dans les possibilité de manipulation grace à leur ## STRUCTURE HYPERTEXTEqui permet de naviguer dans un texte de manièr elinai
+Internet et le web a amené une révolution dans les possibilité de manipulation grace à leur STRUCTURE HYPERTEXTE qui permet de naviguer dans un texte de manièr linéaire puis de passer de manière transversalle vers un nouveau sujet. 
+
+L’hypertexte marque une rupture dans le processus de lecture au sens où le lecteur n’est pas tenu de lire l’intégralité du document hypertextuel (et ne le fait pas en général) tandis que la lecture d’un livre se fait généralement du début à la fin. De plus, la navigation au moyen d'hyperliens crée facilement un effet de désorientation, souvent signalé par les auteurs dans les débuts de l'hypertexte
+
+Les HYPERLIENS permettent ainsi le dépassement des contraintes de la linéarité du texte écrit.
 
 ## DIAGRAMME
 
@@ -190,9 +194,17 @@ Plus solides que les POST-IT standards Les CARTES PAPIERS sont plus durables, pl
 
 Permettent de manipuler indivuellement ou collectivement l'information de manière visuelle.
 
+Même si elle n'est pas automatisable, l'usage de cartes permet de créer une STRUCTURE HYPERTEXTE.
+
 ## TEST COMPARATIF PHOTOS
 
 Faire comparer deux images en demandant aux participants d'indiquer celle qui a le plus grand DEGRÉ DE VIE (via QUESTIONS PUISSANTES)
+
+## ESQUISSES
+
+Alexander déconseille de faire faire des schémas ou des plans très détaillés tôt dans le processus créatifs, car ils risquent de figer trop tôt la vision dans la tête du concepteur et surtout dans la tête des usagers. Or il est important que les choix soient validés le plus tard possible pour permettre des modifications et des ajustements en fonction de la connaissance acquise lors du processus de conception.
+
+Par conséquent, minimisez l'usage de dessins, privilégiez l'usage de techniques qui font appel à une IMAGE MENTALE et si nécessaire de dessiner, utiliser des ESQUISSES, schémas à l'aspect volontairement inachevé
 
 ## FUTUR SOUHAITABLE
 
@@ -200,9 +212,15 @@ Imaginer individuellement ou collectivement un avenir désirable en posant des Q
 
 ## IMAGE MENTALE
 
+la vision de quelque chose que l'on possède dans oeil intérieur.
+
 ## GRAINES D'INFORMATION
 
+des unités informationnelles conçues pour être facilement manipulables et combinables.
+
 ## QUESTIONS PUISSANTES
+
+des questoins conçues pour qui ouvrent la discussion faire clarifier et expliciter des choses, émerger du sens, provoquer des discussion riches et non pas des répo
 
 ## MÉTAPHORES ADAPTÉES
 
