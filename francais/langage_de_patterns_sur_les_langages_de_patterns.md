@@ -20,9 +20,9 @@ Chacun des patterns d'Alexander contient les éléments suivants:
 - une image 
 - un paragraphe d'introduction (pose le contexte et explique comment le pattern décrit aide à compléter des patterns plus larges), 
 - trois diamants/losanges (début du probleme), 
-- accroche (l'essence du problème),
+- accroche (l'essence du problème) surlignée en gras
 - coeur du problème, 
-- une solution, 
+- essence de la solution, surlignée en gras
 - un DIAGRAMME, 
 - trois diamants/losanges
 - réferences aux patterns qui sont nécessaires pour compléter le pattern décrit. 
@@ -36,6 +36,8 @@ solution
 pattern intégrés en MAJUSCULES
 
 flexibilité de la structure selon le besoin et le degré de maturité du pattern
+
+le titre est un NOM pas un verbe.
 
 ## LANGAGE/ENSEMBLE STRUCTURÉ
 
@@ -59,6 +61,7 @@ Pour inventer un lanage de pattern, mettez en place un PROCESSUS GÉNÉRATIF
 ## NOM EXPLICITE
 
 - Le titre décrit une partie de la bonne pratique/solution
+- le titre est un NOM pas un verbe.
 
 ## ITÉRATIONS
 
