@@ -32,7 +32,7 @@ En systémique un pattern est une **configuration recurrente** qui exprime une *
 
 Dans une perspective systémique, chaque "élément" n'est jamais un objet isolé, mais peut être vu lui même comme un tissu de relation, donc un pattern. Ce coté FRACTAL des patterns est très important.
 
-un pattern est donc en fait un moyen de cartographier une sous partie d'un système, ce pattern pouvant lui même faire partie d'un pattern plus large qui décrit la relation entre les différents sous-patterns.
+un pattern est donc en fait un moyen de cartographier une sous partie d'un système, ce pattern pouvant lui même faire partie d'un pattern plus large qui décrit la relation entre les différents sous-patterns, il y a donc une sorte de STRUCTURE HYPERTEXTE.
 
 En tant qu'outil, peuvent être vus comme une loupe ou un microscope, un moyen de focaliser individuellement ou collectivement sur un aspect ou un sous-aspect d'un système, afin l'examiner en détail. L'usager peut faire varier le niveau d'échelle à examiner, avec le risque de se perdre dans la quantité des détails.
 
@@ -70,6 +70,10 @@ Ceci est vrai avec les MOTS-PATTERNS, à ceci près que la définition de ces mo
 Si ces MOTS-PATTERNS sont potentiellement plus profonds et plus rafinés que des mots ordinaires, ils peuvent en revanche être utilisés aussi simplement que des mots ordinaires pour communiquer des idées.
 
 À l'écrit, il est possible de mettre en majuscules les MOTS-PATTERNS afin de les rendre plus faciles à distinguer.
+
+Il y a donc une sorte de STRUCTURE HYPERTEXTE entre ces MOTS-PATTERNS
+
+A terme, un outil qui permette une gestion automatique de cette ## STRUCTURE HYPERTEXTE serait pratiques (le système GIST d'Eric Lacombe couplé à un système markdown-github pourrait être extremement puissant).
 
 ## STRUCTURE PATTERNS ALEXANDRIENS
 
@@ -112,6 +116,10 @@ souvent je fais abstraction de la description du contexte et du problème (au mo
 
 Un ensemble de patterns est structuré comme un langage (et pas une collection). La structure transparait par les liens entre les patterns.
 
+## STRUCTURE HYPERTEXTE
+
+Internet et le web a amené une révolution dans les possibilité de manipulation grace à leur ## STRUCTURE HYPERTEXTEqui permet de naviguer dans un texte de manièr elinai
+
 ## DIAGRAMME
 
 Un diagramme est utile pour décrire les RELATIONS entre elements/patterns de manière visuelle. Alexander à choisi de décrire les solutions indiquées dans un pattern en associant de manière systématique un diagramme à son explication textuelle.
@@ -150,9 +158,9 @@ Un LANGAGE DE PATTERN sera d'autant plus puissant qu'il sera co-construit/explic
 
 Un des aspects qui distingue le plus Alexander des autre spersonnes impliqués dans les questions de conception est son usage de RESSENTI ET INTUITION pour dinstinguer le DEGRÉ DE VIE d'un système. 
 
-Il utilise cela dans ses entretiens avec les clients et usagers,  dans ses TESTS PHOTOS COMPARATIFS et de manière plus générale dans sa démarche.
+Il utilise cela dans ses entretiens avec les clients et usagers,  dans ses TEST COMPARATIF PHOTOS et de manière plus générale dans sa démarche.
 
-De manière rationnelle 
+De manière rationnelle il est vraisemblable (établi) que notre cerveau logique et rationnel ne représente qu'une toute petite part de notre capacité à penser. Il semble que le plus souvent notre cervéau intègre de manière inconsciente de nombreux facteurs et paramètres pour nous amener à des solutions que nous pouvons ensuite dans un second temps rationnaliser pour mieux les comprendre et les expliquer.
 
 ## SÉQUENCES GÉNÉRATIVES
 
@@ -162,11 +170,13 @@ Si les patterns peuvent être vus comme des ingrédients, les SÉQUENCES GÉNÉR
 
 Une autre façon de voir les séquences génératives: les patterns décrivant une configuration spatiale, une topologie, les séquences génératives une configuration spatio-temporelle (combinaison de patterns spatiaux et patterns temporels).
 
+Traditionnellement les cultures orales utilisaient des séquences génératives sous formes de chant (voir CANOE SAMOAN)
+
 # OUTILS
 
 ## CARTES PATTERNS PAPIERS
 
-les supports numériques sont intangibles et moins facilement à manipuler collectivement en groupe. Ils nous mettent face à l'écran avec les incovénients que cela procure et ne nous permettent pas de "penser avec nos mains"
+Les supports numériques sont intangibles et moins facilement à manipuler collectivement en groupe. Ils nous mettent face à l'écran avec les incovénients que cela procure et ne nous permettent pas de "penser avec nos mains"
 
 Le LIVRE PAPIER est un bon format pour présenter l'information de manière séquentielle/linéaire, ce qui est utile pour amener un raisonnement à des débutants. Pour autant ceci est limité pour aborder des sytèmes complexes qui peuvent être vus/décrits de plusieurs manières.
 
@@ -176,10 +186,24 @@ Par conséquent, privilégier l'usage de CARTES PATTERNS PAPIERS décrivant l'es
 
 Plus tangibles que les supports numériques, les CARTES PATTERNS PAPIERS sont faciles et agréables à manipuler pour "penser avec nos mains".
 
-Plus solides que les POST-IT standards Les CARTES PAPIERS sont plus durables,  plus substantielles et permettent de conserver l'information issues des premières ITÉRATIONS.
+Plus solides que les POST-IT standards Les CARTES PAPIERS sont plus durables, plus substantielles et permettent de conserver l'information issues des premières ITÉRATIONS.
 
 Permettent de manipuler indivuellement ou collectivement l'information de manière visuelle.
 
-## TESTS PHOTOS COMPARATIFS
+## TEST COMPARATIF PHOTOS
+
+Faire comparer deux images en demandant aux participants d'indiquer celle qui a le plus grand DEGRÉ DE VIE (via QUESTIONS PUISSANTES)
 
 ## FUTUR SOUHAITABLE
+
+Imaginer individuellement ou collectivement un avenir désirable en posant des QUESTIONS PUISSANTES en utilisant des MÉTAPHORES ADAPTÉES.
+
+## IMAGE MENTALE
+
+## GRAINES D'INFORMATION
+
+## QUESTIONS PUISSANTES
+
+## MÉTAPHORES ADAPTÉES
+
+
