@@ -31,3 +31,4 @@ ex: réseau coopératif ouvert
 - RÉSEAU DÉCENTRALISÉE
 - RAPPORTS D'AFFINITÉ
 - BESOIN DE SENS
+- ARCHIPÉLISATION
