@@ -3,12 +3,21 @@
 
 En systémique un pattern est une configuration recurrente qui exprime une relation entre plusieurs éléments. 
 
+Dans une perspective systémique, chaque "élément" n'est pas un objet isolé, mais peut être vu lui même comme un tissu de relation, donc un pattern.
+
+un pattern est donc en fait un moyen de cartographier une sous partie d'un système, ce pattern pouvant lui même faire partie d'un pattern plus large qui décrit la relation entre les différents sous-patterns.
+
+
 
 ## LANGAGE DE PATTERNS
 
-L'intention d'un langage de PATTERNS, selon Alexander (1977) était de capturer le coeur de solutions à des problèmes recurrents de conception en architecture et de fournir un processus et un langage que les architectes et non-architectes pourraient utiliser pour communiquer.
+L'intention d'un langage de PATTERNS, selon Alexander (1977) était de capturer le coeur/l'essence des solutions qui répondaient à des problèmes recurrents de conception en architecture et de fournir un processus et un langage que les architectes et non-architectes pourraient utiliser pour communiquer.
 
-Un langage depattern est un outil qui aide a rendre la CONNAISSANCE EXPLICITE
+ Traditionnellement quand le savoir se transmettait de manière directe, il y avait des langages de pattern implicites (style GOTHIQUE, ROMAN, JARDIN A LA FRANCAISE, ARCHITECTURE PARISIENNE, ...) et parce qu'il étaient transmis directement, il n'y a pas besoin d'expliciter formellement les choses.
+
+Parce que en architecture (et dans d'autres domaines) les experts se sont appropriés le monopole de la connaissance de leur art et que les usagers par manque de transmission directe et manque de confiance, nepossède plus ce savoir, Alexander a conçu et proposé la méthode des langages de pattern comme outil pour aider à rendre la CONNAISSANCE EXPLICITE et partageable.
+
+
 
 
 
