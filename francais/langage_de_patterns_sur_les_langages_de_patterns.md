@@ -20,7 +20,7 @@ Chacun des patterns d'Alexander contient les éléments suivants:
 - une image 
 - un paragraphe d'introduction (pose le contexte et explique comment le pattern décrit aide à compléter des patterns plus larges), 
 - trois diamants/losanges (début du probleme), 
-- headline (l'essence du problème),
+- accroche (l'essence du problème),
 - coeur du problème, 
 - une solution, 
 - un DIAGRAMME, 
