@@ -49,3 +49,45 @@ the various behaviors discussed in the patterns.
 If someone wanted to try to recreate the Cultural
 Imperialism pattern from our work, he or she
 could play a role in perpetuating it.
+
+
+### set of descriptors used for each pattern
+
+These descriptors were: Description,
+How it Works, Evidence, Linked Patterns, and
+References.
+
+### Mining Process
+
+To create a first draft of this language within the
+10-week quarter, we went through a process that
+proceeded incrementally according to the
+demands of the project at the time. We generated
+lots of possible patterns, convened small and
+large discussions, contributed to the project Wiki,
+added descriptive images from the public domain,
+and, finally, arranged, grouped, and categorized
+the anti-patterns. 
+
+<!--- Ultimately we identified three
+fundamental anti-patterns, Civic Ignorance,
+Violence, and Environmental Degradation, and
+over 30 others, which we arranged roughly from
+biggest to smallest, similarly to both of our model
+pattern languages.
+--->
+
+We started by generating a large list of anti-
+patterns in several group brainstorm sessions.
+This list was whittled down over the course of the
+next couple of weeks in seminar groups and
+much discussion. To get the initial list of
+approximation of one hundred patterns we voted
+for our top ten patterns and kept the 35 most
+popular as the first set. The patterns that made it
+ran the gambit from more serious issues such as
+Racism and Societal Apathy, humorous titles like
+Weapons of Mass Distraction and more subtle
+issues such as Focus on Deficiencies and Mock
+Public Space
+
