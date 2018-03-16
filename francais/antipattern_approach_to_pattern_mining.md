@@ -199,6 +199,35 @@ without cost online and we are integrating them
 into a collaborative pattern language project this
 quarter (winter 2014).
 
+The identification of an anti-pattern is a type of
+declaration or assertion. In a general way, the
+developers of the anti-patterns are stating that
+these and the language that contains them are
+bad. While not unequivocally evil (or, more
+practically, measurable or otherwise easily
+precisely defined) they are asserted to represent
+powerful social forces that are generally
+destructive and, hence, implicitly (at least)
+should be resisted. While we believe that the
+development of the anti-pattern language was a
+significant step, its usefulness would be best
+demonstrated if and when it helps inform the
+development of resistance to the anti-patterns.
+
+We are using the idea of interventions as a way
+to explore the existing and potential forms that
+this resistance could take. Interventions in this
+context are responses to social processes that are
+deemed to be undesirable. Interventions are
+intended to block or otherwise deflect or dilute
+the processes described by the anti-patterns, to
+force detours from the courses that would have
+been taken had it been allowed to function in
+their customary operational fashion.
+
+
+
+
 
 
 
