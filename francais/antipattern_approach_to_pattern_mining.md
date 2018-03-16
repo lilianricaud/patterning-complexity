@@ -84,10 +84,121 @@ next couple of weeks in seminar groups and
 much discussion. To get the initial list of
 approximation of one hundred patterns we voted
 for our top ten patterns and kept the 35 most
-popular as the first set. The patterns that made it
+popular as the first set. 
+
+<!--- The patterns that made it
 ran the gambit from more serious issues such as
 Racism and Societal Apathy, humorous titles like
 Weapons of Mass Distraction and more subtle
 issues such as Focus on Deficiencies and Mock
-Public Space
+Public Space.--->
+
+This first set of patterns was placed on the
+Evergreen State College Wiki site. Each pattern
+was given a wiki page so that students could
+work collaboratively on each pattern and see the
+changes instantly. We found that a Wiki was
+perfect for this type of collaborative project, as
+each contributor could see their work instantly
+reflected on the site in that clean and familiar
+wiki style. Changes could be easily tracked and
+entire sections rolled back in case of any
+mistakes. We were also able to watch the work
+grow in real time.
+
+Although we developed a single anti-pattern
+language we often worked individually and in
+small groups. Each group would try to identify
+approaches that work best for them — and for the
+larger group. The whole group also got together
+several times during the quarter to help ensure
+that there was broad coverage and that there
+wasn’t duplication of effort. It turned out that one
+group sometimes developed patterns based on
+suggestions from another group. Also, certain
+students were better at different tasks like finding
+research, others better at writing or
+brainstorming, and others were better at layout
+and design or in editing and forming the wiki. By
+encouraging collaboration and sharing of
+knowledge we were able to better utilize the
+strengths of the group to create something that
+would have been difficult for a small group of
+students working on their own. To further
+encourage and utilize the collective intelligence
+of the group, two students were assigned to each
+anti-pattern we selected and each anti-pattern was
+worked on by a different set of students so the
+same two students were not assigned more than
+one anti-pattern.
+
+Each pattern was illustrated with at least one
+graphic, photograph, or illustration that was
+representative of the pattern (and others to
+illustrate other aspects of the pattern as desired).
+All graphics that we used in the project were
+public domain, open source, and/or an
+appropriate creative commons license that
+allows free publishing. The use of public domain
+photos was very helpful, due to our limited time
+on the project, but it could sometimes result in a
+very long process to find a suitable photograph
+or illustration for our needs.
+
+Since this is a pattern language project, we set
+out, not in developing a random set of patterns,
+but — hopefully — a coherent set of well
+thought out patterns that are mutually generative
+and constitute a holistic language. To that end,
+we decided to group the patterns by their place
+and their use within the social landscape. These
+groups were Cultural, Societal, Institutional,
+Tactics, Media, and Results. The final
+overarching group was the group that we
+thought belonged at the top of the pyramid (so to
+speak). This final group was called Fundamental
+Evils, and it contained the three most general
+anti-patterns of our project: Civic Ignorance,
+Violence, and Environmental Degradation.
+We were always aiming for quality but given the
+time constraints, not necessarily completeness of
+individual patterns. We were, however, looking
+for broad coverage of patterns. This might mean
+that additional anti-patterns were identified by
+name but not yet fleshed out because of time
+constraints. These patterns were cataloged on the
+wiki for reference and so that they can be looked
+at and selected for future addition to the pattern
+language.
+	
+  
+Patterns need to be reasonably generic, timeless,
+logical, and supported by evidence. Patterns also
+have an established structure: title, introductory
+graphic, problem, context, discussion, diagram,
+and solution. Ours don’t need to have each one
+of these explicitly, but they should contain at
+least hints of all of them. And we are likely to
+have the notion of a full pattern language as well
+as pattern cards, which contain only sketches.
+The first draft of the project was completed on
+the last day of spring quarter, approximately 10
+weeks after it started. The fact that a workable
+pattern language was created collaboratively
+over a 10-week period is a testament to the
+pattern/ pattern language form.
+
+In the following quarter (Fall, 2013), Justin
+Wagaman, with help from colleagues, developed
+a short description for each anti-pattern and a
+suitable descriptive image in the public domain.
+The text and images were packed into physical
+cards that were presented at the PUARL
+conference in 2013. The cards are available
+without cost online and we are integrating them
+into a collaborative pattern language project this
+quarter (winter 2014).
+
+
+
 
