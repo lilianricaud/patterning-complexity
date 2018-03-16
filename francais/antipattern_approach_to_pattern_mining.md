@@ -263,6 +263,60 @@ the anti-patterns and the subsequent development
 of interventions can result in positive social and
 environmental change.
 
+Each pattern represents a variety of interrelated
+research chores and hypotheses. The structure
+we’ve adopted includes a “how it works” field
+(mechanisms) and an “evidence” field, both of
+which challenge us to support our claim that
+we’ve successfully identified significant anti-
+patterns. Because each pattern in the set (or
+language) contains links to other patterns, a
+complex set of hypotheses is created. The key to
+developing successful interventions may lie in
+analysis; careful inquiry as to the systemic
+linkages of the anti-patterns at all levels.
+
+The mechanisms described in
+each of the linked patterns should feed into each
+other. A mismatch of the mechanisms could
+suggest that the anti-patterns are not linked.
+Finally, while we have not spent much time
+directly considering this, the interplay between
+the patterns and the anti-patterns that we’re
+engaged with, is a strongly dialectic process,
+which we hope will help in productive thinking
+and acting in relation to social engagement.
+
+## Pedagogical benefits
+
+As has been asserted previously (Schuler, 2010),
+the pattern language structure is particularly well
+structured for promoting wide-ranging
+explorations and representing complex
+circumstances. The “forcing function” nature of
+the structure (the problem / solution relationship,
+e.g.) helps people generate multiple hypotheses to
+be examined and tested. This extends to the
+development of interventions which we believe
+are key to the value of this project. This approach
+allows students to devise their own research path
+that allows more freedom than the more
+structured and codified approaches do not allow.
+Pursued diligently using the built-in dictates of
+the pattern / pattern language approach, and with
+appropriate faculty guidance this approach is not
+less rigorous (or scientific) than traditional
+approaches. The rigor here is forced upon us
+because each anti-pattern is, in essence, a
+hypothesis, and the evidence and the mechanisms
+
+need to be identified in order for it to be
+legitimate. Beyond the individual pattern, the
+pattern language, the network of interrelations
+among patterns presents another wide set of
+questions to be addressed through research and
+inquiry.
+
 
 
 
