@@ -317,6 +317,102 @@ among patterns presents another wide set of
 questions to be addressed through research and
 inquiry.
 
+We’re still trying to figure out why this is
+exciting — and what are the pedagogical
+implications? Some of the possible reasons
+include obtaining satisfactory results in a very
+short period of time. And, the quick assembly
+coupled with the perceived magnitude of the
+findings and the somewhat unexpected coming
+together of the project from seemingly
+disconnected efforts may also have contributed.
+Also, finally, the incongruously liberatory nature
+of actually naming names and pulling back the
+curtain on social ills was also satisfying.
+As a matter of fact, engaging people in a dialectic
+“game” which does not necessarily lead down the
+professor’s preferred garden path, is likely to be
+more inspiring, more open to insight and team
+learning, more likely to inspire a love of learning
+and self-efficacy in that direction, and, in general,
+more appropriate for people who find themselves
+existing in the “real” (i.e. non-academic) world.
+
+There are other interesting research questions that
+this project has helped surface. For example, is it
+easier to identify anti-patterns than the traditional
+patterns put forward by Alexander et al (1978)?
+This makes intuitive sense because the
+“solutions” to the anti-patterns have apparently
+not been wholly successful. This also suggests in
+an indirect way that the “solutions” — the
+patterns in the APL sense — aren’t as readily
+discoverable. They may also be too numerous to
+list because there is unlikely to be one grand
+scheme that erases the problems. Also, because
+many of the problems in this realm have persisted
+so long, it may be the case that they are truly
+timeless.
+
+
+We are relatively pleased with our current
+product (the draft anti-pattern language and a set
+of anti-pattern cards) and believe that we have
+sketched a broad portrait for many of the timeless
+patterns that perpetuate unhealthy dominance
+over people and the natural environment. But
+although we were quite happy with the initial
+result that had developed so quickly and
+somewhat effortlessly, it could easily be argued
+that the “real work” is now beginning.
+
+An important part of this work includes a
+systematic probe of each anti-pattern as well as a
+check on the validity of the set of anti-patterns as
+a pattern language. And each set of validation
+tests, as well as the processes to redress any
+shortcomings, are different for each focus. Other
+interesting roles have been advanced, many
+related to our 2012 paper (Schuler et al). These
+include leveraging the potential for interaction in
+the online environment in many ways including
+annotation. We are also interested in using them
+in games or workshops, and to counterpoise them
+with the Liberating Voices patterns to see how
+the two can help inform each other.
+
+Along similar lines, my students and I have just
+initiated (winter quarter 2014) a somewhat open-
+ended process to develop 7-20 pattern languages
+(first drafts, that is) in a variety of domains,
+primarily of the student’s choosing. The themes
+of community health, gardening, native
+education, bliss and eight others have been
+proposed so far. Although it’s too early to say
+anything definitive, we intend to integrate the
+anti-patterns into the project, probably by
+incorporating them into the problem statements.
+We also intend to explore how the various pattern
+languages can be connected, possibly into one
+knowledge complex that may or may not
+ultimately take the form of a traditional pattern
+language.
+
+Even if our pattern language was more
+developed, the work wouldn’t stop there. The
+idea is not to sit on the sidelines and watch the
+anti-patterns continue their inexorable reiteration
+of violence and oppression as if life on earth was
+a movie. The anti-pattern work and the
+interventions that we hope to identify will need to
+connect to key efforts in other sectors including
+political and social engagement, policy
+development, media access, and the built
+environment. To some degree, the set of anti-
+patterns we’ve developed could provide
+inspiration and support — if not the backbone —
+for a broad participatory project.
+
 
 
 
