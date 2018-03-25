@@ -17,5 +17,5 @@ Interventions are not merely disruptions.
 
 Although the processes described in our anti- patterns are, unfortunately, “eternal” — as are the set of sustained, diverse, and often lost-to-history counter-processes, “interventions” and other responses to the anti-patterns — we don’t believe that they’re inevitable or permanent, at least at their current levels. We believe that focusing on the anti-patterns and the subsequent development of interventions can result in positive social and environmental change.  Each pattern represents a variety of interrelated research chores and hypotheses. 
 
-**Interventions are conscious DISCHARGE PHENOMENA.**
+**Interventions are conscious DISCHARGE PHENOMENA and may introduce BIFURCATIONS in systems.**
 
