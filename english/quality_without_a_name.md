@@ -1,8 +1,8 @@
 # Quality without a name
 
-"Alive, whole, comfortable, free, egoless, eternal" cannot be defind precisely, always different yet objective quality.
+"Alive, whole, comfortable, free, egoless, eternal" cannot be defined precisely, always different yet objective quality.
 
-Subtle kind of freedom from inner contradictions.
+Subtle kind of freedom from inner contradictions (TENSIONS).
 
 Difference between:
 - health / sickness 
@@ -11,7 +11,7 @@ Difference between:
 
 In a world which is alive, whole, healthy, people themselves can be alive and self-creating.
 
-Subtle harmony between various forces of a (sub-)system, synergy where the forces/energies are used productivelly by the system leading to generative behaviors and not (self) destructuve behaviors.
+Subtle harmony between various forces of a (sub-)system, synergy where the forces/energies are used productivelly by the system leading to generative behaviors and not (self) destructive behaviors.
 
 in tune with inner forces (fire, tiger, symphony...)
 
