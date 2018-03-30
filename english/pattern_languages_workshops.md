@@ -12,5 +12,26 @@ Fourth, the level of energy, creativity and enthusiasm we witnessed in virtually
 
 Fifth, and perhaps most important of all, **the exercises appeared to generate cohesive narratives** (yes, The Power of Story, LV pattern 114) **around the issues and opportunities in any given scenarios**, seamlessly drawing upon the specific experience, creativity and imagination of the team. The pattern cards stimulated and guided, but did not limit, the conversations, producing an **action-oriented story** of how the issues in the situation could be resolved without arbitrarily truncating or compromising their complexity. 
 
-Sixth, **multiple ways can be developed for extracting learnings from any specific workshop** to enrich the development of the overall Liberating Voices framework. The Public Thinking and Public Health program, for example, conducted a subsequent session in which new patterns were written and uploaded into the online Liberating Voices pattern repository, and the admittedly quick-and-dirty reports that the convener generated simply suggest directions worth considering. Whatever the structure or method, closing this loop reinforces the value of the local workshops in concretely extending and repairing (to borrow Christopher Alexander terminology) the international initiative, thereby broadening and
-improving the archive for the use of other organizations and communities.
+Sixth, **multiple ways can be developed for extracting learnings from any specific workshop** to enrich the development of the overall Liberating Voices framework. The Public Thinking and Public Health program, for example, conducted a subsequent session in which new patterns were written and uploaded into the online Liberating Voices pattern repository, and the admittedly quick-and-dirty reports that the convener generated simply suggest directions worth considering. Whatever the structure or method, closing this loop reinforces the value of the local workshops in concretely extending and repairing (to borrow Christopher Alexander terminology) the international initiative, thereby broadening and improving the archive for the use of other organizations and communities.
+
+
+
+A secondary objective of the workshops was to explore ways of capturing information that might reveal which patterns
+or clusters of patterns tend to be more useful in specific settings or domains, and potentially "seed" the development of "sub-languages" for those who would concretely engage in the development and implementation of solutions. For example, in the Public Thinking and Public Health program, and using a subset of the pattern (65), reports generated from compiling the Pattern Checklists are best viewed as results from "thought experiments" in response to the question, "Which patterns and clusters of patterns might be most useful for supporting civic engagement in the domain of public health and health activism?" So, for example, these ten patterns (with pattern number provided in parentheses for reference) were independently selected by eight out of the ten projects/scenario teams, and therefore might be considered as the core of a specific pattern language for public health:
+
+- Big-Picture Health Information (27)
+- Education and Values (17)
+- Citizen Science (37)
+- Civic Intelligence (1)
+- Community Inquiry (122)
+- Meaningful Maps (47)
+- Positive Health Information (74)
+- Social Responsibility (8)
+- Sustainable Design (22)
+- Transforming Institutions (19)
+
+
+Finally, the in-person workshops can be viewed as possible prototypes for online versions where participants are
+distributed in multiple locations and are unable to get together in person. The snapshot of the "game board" (Fig. 4) from the Aging Population team in the Public Thinking and Public Health program at Evergreen shows one possible shared view of a hypothetical online workshop in progress.
+
+
