@@ -35,13 +35,13 @@ Create something completely new that has never been done. Sometimes you're gonna
 ### 4. Find others with common interests (make no compromise) 
 Find the other people who have found the crack. You want to avoid the soulless drones or the clueless replicators. People with a sense of humor, unpredictable people, these are the kind of people you want to find. You’d be amazed how many others are interested in doing the same and would love to collaborate with you!
 
-> Questions to ask:
+> Questions to ask: Where are the others ? whereis you system intersecting with other systems ? Can you explore theses margins ? 
 
 
 ### 5. Catalyze (create community)
 Catalysis is really fun part you find other, you get them together and yo do organize something informal, whatever, a party, or something.
 
-> Questions to ask:
+> Questions to ask: What can you organize that is simple and fun and that will attract others ? 
 
 ### 6. Exploit language (Create your own ‘jargon’) 
 
@@ -49,13 +49,17 @@ Express your world, your values by identifying your words. By doing so, you can 
 
 Together you can create language (visual language, sonic language, music, body language, or plain old words). Put a name on whatever that is you are creating together.
 
+> Questions to ask: What are the recurrent actions, cracks, you use that are specific of you way of working ? How can you call them ? Is there any jargon that is already in use in your context and nowhere else ? Is there any jargon in use in other contexts that is meaningful for you and you could take back to your context?
+
 ### 7. Institutionalize 
 
 This is not actually something that the hacker does, it's just that the new pattern replicates itself throughout culture. New institutions or new ways of interacting are built around them.
 
 And then it's time to let go, because if yo feel confortable with you brainchild and you want to stay in it, it's dangerous (GRAVEDIGGER-FOUNDER). 
 
-It's counter intuitive, but it'ssomething you have to let go because you want to move on to observe again and maybe even undermine the very thing that you created a few years back.
+It's counter intuitive, but it's something you have to let go because you want to move on to observe again and maybe even undermine the very thing that you created a few years back.
+
+> Questions to ask: Do you need to keep looking after your brainchild ? Is your brainchild ripe to grow on it's own even if it's not exactly the way you want it to grow ? 
 
 ### 8. Observe again (go back to 1)
 
@@ -65,9 +69,8 @@ All along, it's very important to keep searching for people who are better than 
 Sometimes you have to look far and wide, you want to look for people who see bullshit and call it accordingly, you want to look for people make you feel unconfortable who challenge you, who have something to teach you.
 
 
+## Sources
 
-## Source
-
+CC-BY-SA Lilian Ricaud, adapted from:
 -  Seb Paquet “How to Become a Culture Hacker“ https://www.youtube.com/watch?v=ojQT6U-gRAM
-
 - https://www.huffingtonpost.com/maya-zuckerman/culture-hacking-101_b_5753660.html
