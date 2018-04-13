@@ -1,4 +1,4 @@
-# How become a culture hacker/hack cultures ?
+# How to hack cultures ?
 
 Se Paquet think there's a lot of things you can hack, not just software and culture is one of them. Here a transcript from a talk he gave in 2010 about culture hacking and that was adapted as a GENERATIVE SEQUENCE.
 
