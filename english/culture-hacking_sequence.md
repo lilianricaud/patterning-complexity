@@ -12,13 +12,11 @@ Culture is all around us, it's something you feel when you turn one tv, when you
 Why hack culture ? Seb Paquet thinks "Hackers will hack because they can't not hack" (paraphrasing Mark Pilgrim)
 
 ## How do you hack culture ?
-How do you hack something that is pretty much invisible ? Hackers use the same kind of tools whether they are culture or software hackers. Culture hackers use hack culture
+How do you hack something that is pretty much invisible ? Hackers use the same kind of tools whether they are culture or software hackers. Culture hackers use hack culture.
 
+## Sequence
 
-
-
-
-1. Observe - Observe the culture and subcultures around you. Let it get into you. What do you see? How does it affect you? where can you find opportunities to solve problems and promote change?
+1. Observe - Observe the culture and subcultures around you. Let it get into you. It's not something you do by thinking, it's something you do by letting your mind take it in, just listening. *Questions to ask:  What do you see? How does it affect you? where can you find opportunities to solve problems and promote change?*
 2. Find the crack - A crack can be found in everything - ‘that’s how the light gets in’
 Make art - Create something that has never been done.
 - Find others with common interests - You’d be amazed how many others are interested in doing the same and would love to collaborate with you!!!
