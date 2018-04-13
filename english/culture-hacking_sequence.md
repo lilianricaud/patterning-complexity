@@ -15,7 +15,7 @@ Why hack culture ? Seb Paquet thinks "Hackers will hack because they can't not h
 ## How do you hack culture ?
 How do you hack something that is pretty much invisible ? Hackers use the same kind of tools whether they are culture or software hackers. Culture hackers use hack culture.
 
-> You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete. Buckminster Fuller
+> You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete. Buckminster Fuller.
 
 ## Sequence
 
@@ -25,7 +25,7 @@ Observe the culture and subcultures around you. Let it get into you. It's not so
 > Questions to ask:  What do you see? How does it affect you? where can you find opportunities to solve problems and promote change?
 
 ### 2. Find the crack
-A crack is something that makes you feel unconfortable, you can't name it but you feel there's something wrong in the system and you try to nail it. that's a crack, that's where the ligh's gonna get in.
+A crack is something that makes you feel unconfortable, you can't name it but you feel there's something wrong in the system and you try to nail it. That's a crack, that's where the light's gonna get in.
 > questions to ask: what feels wrong? what are the various situations in which it happens ? what is common/recurrent in these different situations ? Can you find/invent a name for this ?
 
 ### 3. Make art
@@ -34,13 +34,11 @@ Create something completely new that has never been done. Sometimes you're gonna
 
 ### 4. Find others with common interests (make no compromise) 
 Find the other people who have found the crack. You want to avoid the soulless drones or the clueless replicators. People with a sense of humor, unpredictable people, these are the kind of people you want to find. You’d be amazed how many others are interested in doing the same and would love to collaborate with you!
-
-> Questions to ask: Where are the others ? whereis you system intersecting with other systems ? Can you explore theses margins ? 
+> Questions to ask: Where are the others ? where is you system intersecting with other systems ? Can you explore theses margins ? 
 
 
 ### 5. Catalyze (create community)
 Catalysis is really fun part you find other, you get them together and yo do organize something informal, whatever, a party, or something.
-
 > Questions to ask: What can you organize that is simple and fun and that will attract others ? 
 
 ### 6. Exploit language (Create your own ‘jargon’) 
@@ -48,7 +46,6 @@ Catalysis is really fun part you find other, you get them together and yo do org
 Express your world, your values by identifying your words. By doing so, you can create your own unique subculture lexicon.
 
 Together you can create language (visual language, sonic language, music, body language, or plain old words). Put a name on whatever that is you are creating together.
-
 > Questions to ask: What are the recurrent actions, cracks, you use that are specific of you way of working ? How can you call them ? Is there any jargon that is already in use in your context and nowhere else ? Is there any jargon in use in other contexts that is meaningful for you and you could take back to your context?
 
 ### 7. Institutionalize 
