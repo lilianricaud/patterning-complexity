@@ -31,14 +31,21 @@ Create something completely new that has never been done. Sometimes you're gonna
 > questions to ask: what can you make by playing that feels right and fun ? What can you combine and remix from others to make something new ?
 
 ### 4. Find others with common interests (make no compromise) 
-Find the other people who have found the crack. You want to avoid the soulless drones or the clueless replicators You’d be amazed how many others are interested in doing the same and would love to collaborate with you!!!
+Find the other people who have found the crack. You want to avoid the soulless drones or the clueless replicators. People with a sense of humor, unpredictable people, these are the kind of people you want to find. You’d be amazed how many others are interested in doing the same and would love to collaborate with you!
+
+> Questions to ask:
 
 
-### 5. Create Community 
- Start a group, a meetup and get people together and encourage discourse.
+### 5. Catalyze (create community)
+Catalysis is really fun part you find other, you get them together and yo do organize something informal, whatever, a party, or something.
 
-### 6. Create your own ‘jargon’ 
+> Questions to ask:
+
+### 6. Exploit language (Create your own ‘jargon’) 
+
 Express your world, your values by identifying your words. By doing so, you can create your own unique subculture lexicon.
+
+Together you can create language (visual language, sonic language, music, body language, or plain old words). Put a name on whatever that is you are creating together.
 
 ### 7. Institutionalize 
 Sometimes you have to ‘let go’ in order to grow. Many formal ideologies originated from disruptive and grassroots movements
