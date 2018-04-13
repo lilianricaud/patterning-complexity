@@ -16,8 +16,8 @@ How do you hack something that is pretty much invisible ? Hackers use the same k
 
 ## Sequence
 
-1. Observe - Observe the culture and subcultures around you. Let it get into you. It's not something you do by thinking, it's something you do by letting your mind take it in, just listening. *Questions to ask:  What do you see? How does it affect you? where can you find opportunities to solve problems and promote change?*
-2. Find the crack - A crack can be found in everything - ‘that’s how the light gets in’
+1. **Observe** - Observe the culture and subcultures around you. Let it get into you. It's not something you do by thinking, it's something you do by letting your mind take it in, just listening. *Questions to ask:  What do you see? How does it affect you? where can you find opportunities to solve problems and promote change?*
+2. **Find the crack** - A crack can be found in everything - ‘that’s how the light gets in’
 Make art - Create something that has never been done.
 - Find others with common interests - You’d be amazed how many others are interested in doing the same and would love to collaborate with you!!!
 - Create Community - Start a group, a meetup and get people together and encourage discourse.
@@ -27,7 +27,7 @@ Make art - Create something that has never been done.
 
 
 
-You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.
+> You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.
 
 Buckminster Fuller
 
