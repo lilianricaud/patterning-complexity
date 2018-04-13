@@ -73,4 +73,4 @@ Sometimes you have to look far and wide, you want to look for people who see bul
 
 CC-BY-SA Lilian Ricaud, adapted from:
 -  Seb Paquet “How to Become a Culture Hacker“ https://www.youtube.com/watch?v=ojQT6U-gRAM
-- https://www.huffingtonpost.com/maya-zuckerman/culture-hacking-101_b_5753660.html
+- Maya Zuckerman Culture Hacking 101 https://www.huffingtonpost.com/maya-zuckerman/culture-hacking-101_b_5753660.html
