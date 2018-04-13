@@ -15,6 +15,8 @@ Why hack culture ? Seb Paquet thinks "Hackers will hack because they can't not h
 ## How do you hack culture ?
 How do you hack something that is pretty much invisible ? Hackers use the same kind of tools whether they are culture or software hackers. Culture hackers use hack culture.
 
+> You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete. Buckminster Fuller
+
 ## Sequence
 
 ### 1. Observe 
@@ -48,17 +50,20 @@ Express your world, your values by identifying your words. By doing so, you can 
 Together you can create language (visual language, sonic language, music, body language, or plain old words). Put a name on whatever that is you are creating together.
 
 ### 7. Institutionalize 
-Sometimes you have to ‘let go’ in order to grow. Many formal ideologies originated from disruptive and grassroots movements.
 
 This is not actually something that the hacker does, it's just that the new pattern replicates itself throughout culture. New institutions or new ways of interacting are built around them.
 
-And then it's time to let go, because if yo feel confortable with you brainchild and you want to stay in it, it's dangerous (GRAVEDIGGER-FOUNDER). It's counter intuitive, but it'ssomething you have to let go because you want to move on to observe again and maybe even undermine the very thing that you created a few years back.
+And then it's time to let go, because if yo feel confortable with you brainchild and you want to stay in it, it's dangerous (GRAVEDIGGER-FOUNDER). 
+
+It's counter intuitive, but it'ssomething you have to let go because you want to move on to observe again and maybe even undermine the very thing that you created a few years back.
 
 ### 8. Observe again (go back to 1)
 
-> You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.
+It's about constant research and change.
+All along, it's very important to keep searching for people who are better than you are, people that you can look up to.
 
-Buckminster Fuller
+Sometimes you have to look far and wide, you want to look for people who see bullshit and call it accordingly, you want to look for people make you feel unconfortable who challenge you, who have something to teach you.
+
 
 
 ## Source
