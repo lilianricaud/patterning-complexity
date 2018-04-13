@@ -48,10 +48,13 @@ Express your world, your values by identifying your words. By doing so, you can 
 Together you can create language (visual language, sonic language, music, body language, or plain old words). Put a name on whatever that is you are creating together.
 
 ### 7. Institutionalize 
-Sometimes you have to ‘let go’ in order to grow. Many formal ideologies originated from disruptive and grassroots movements
+Sometimes you have to ‘let go’ in order to grow. Many formal ideologies originated from disruptive and grassroots movements.
 
+This is not actually something that the hacker does, it's just that the new pattern replicates itself throughout culture. New institutions or new ways of interacting are built around them.
 
+And then it's time to let go, because if yo feel confortable with you brainchild and you want to stay in it, it's dangerous (GRAVEDIGGER-FOUNDER). It's counter intuitive, but it'ssomething you have to let go because you want to move on to observe again and maybe even undermine the very thing that you created a few years back.
 
+### 8. Observe again (go back to 1)
 
 > You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.
 
