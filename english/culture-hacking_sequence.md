@@ -8,7 +8,7 @@ Culture is a shared pattern among a group of people,it's a set of habits that de
 
 In an organization culture is the social infrastructure, the operating system, defining who talk to whom, who calls the shots.
 
-Culture is all around us, it's something you feel when you turn one tv, when you go to work. It's everywhere. But because it's a set of habits it's invisible. Once it gets cultural, it's something you forget about very often. Great culture hacks change habits, the way we see things the way we relate to one another.
+Culture is all around us, it's something you feel when you turn one tv, when you go to work. It's everywhere. But because it's a set of habits it's invisible (INVISIBLE ARCHITECTURES). Once it gets cultural, it's something you forget about very often. Great culture hacks change habits, the way we see things the way we relate to one another.
 
 Why hack culture ? Seb Paquet thinks "Hackers will hack because they can't not hack" (paraphrasing Mark Pilgrim)
 
