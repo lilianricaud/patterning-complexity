@@ -1,13 +1,14 @@
-Culture hacker
+# How become a culture hacker/hack cultures ?
 
-there's a lot of thing you can hack, culture is one of them.
+Se Paquet think there's a lot of thing you can hack, culture is one of them. Here a transcript from a talk he gave in 2010 and that was adapted as a GENERATIVE SEQUENCE.
 
-Culture is a shared pattern among a group of people,it's a ste of habits that definesthe way we see things and the way we relate to one another.
+## What is culture ?
 
-In an organization culture is the social infrastructure, the operating system, defines who talk to whom, who calls the shots.
+Culture is a shared pattern among a group of people,it's a set of habits that defines the way we see things and the way we relate to one another.
+
+In an organization culture is the social infrastructure, the operating system, defining who talk to whom, who calls the shots.
 
 Culture is all around us, it's something you feel when you turn one tv, when you go to work. It's everywhere. But because it's a set of habits it's invisible. Once it gets cultural, it's something you forget about very often. Great culture hacks change habits, the way we see things the way we relate to one another.
-
 
 Why hack culture ? Seb Paquet thinks "Hackers will hack because they can't not hack" (paraphrasing Mark Pilgrim)
 
