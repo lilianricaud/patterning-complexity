@@ -44,7 +44,7 @@ five  pieces  of  paper  were  gathered  together  is  because  there  was  some
 
 Clustering should be done using a bottom-up approach involving every single sticky note, and **should never be performed to fulfill a preexisting categorization**. **This is the most important aspect of the KJ method**, which we discuss in greater detail later in this paper. 
 
-Clustering  is  usually  carried  out  by  multiple  people  talking  to  each  other  and  moving  the  sticky  notes (Figure  2:  Talking  while  Moving).  While  some  groups  of  sticky  notes  will  be  generated  gradually,  doubt  may remain about what has been clustered, and it is important to check the clustered notes repeatedly. In the initial stages, it is normal that some notes do not fit the group in which they have been placed (Figure 2: Doubting Clusters).  But  
+Clustering  is  usually  carried  out  by  multiple  people  talking  to  each  other  and  moving  the  sticky  notes (Figure  2:  Talking  while  Moving).  While  some  groups  of  sticky  notes  will  be  generated  gradually,  doubt  may remain about what has been clustered, and it is important to check the clustered notes repeatedly. In the initial stages, it is normal that some notes do not fit the group in which they have been placed (Figure 2: Doubting Clusters).  
 
 
 ### ISLANDS
