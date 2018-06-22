@@ -19,7 +19,7 @@ The opportunity for discussion provides the opportunity  to  obtain  a  common  
 - Look for Hidden Meanings
 - Compare One-to-One
 - Doubt Clusters
-- Discovering the Islands
+- Identify the Islands
 
 ### Starting from Chaos
 
@@ -30,14 +30,17 @@ This begins with writing down knowledge of practice (rules of thumb and tips) co
 We then attempt to work out the essence of the contents  of  the  individual  sticky  notes  (Figure  2:  Hidden  Meanings)  by  bringing  together  those  notes  with similar contents. It is important to bear in mind that simply moving notes with existing classification standards  such as “-ish” and “-related” is not the purpose here.
 
 ### HIDDEN MEANINGS
-the idea is to grasp the true meaning of what is written on the notes
+the idea is to grasp the true meaning of what is written on the notes. 
 
 ### One-to-One Comparison
 
 Compare pairs of notes individually to enrich comprehension of HIDDEN MEANINGS and start sthinking about CLUSTERS
-
+When implementing this process, it is important to feel rather than to think logically. What is most important is to “genuinely listen to the essence of what each piece of paper is saying (HIDDEN MEANINGS). Cluster them based on the affinity of their essential meaning. They should not be clustered based on resemblance of what they superficially look like” 
 
 ### CLUSTERS
+
+ The reason those 
+five  pieces  of  paper  were  gathered  together  is  because  there  was  some  sort  of  feeling  of affinity. However, now looking at them for the second time, it is now necessary to read into the  five  pieces  of  paper  in  detail.  Read  thoroughly,  and  reconsider  logically  ‘why  these  five pieces of paper should be clustered together
 
 Clustering should be done using a bottom-up approach involving every single sticky note, and **should never be performed to fulfill a preexisting categorization**. **This is the most important aspect of the KJ method**, which we discuss in greater detail later in this paper. 
 
