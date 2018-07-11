@@ -1,0 +1,27 @@
+
+CONTRACT AS PATTERN LANGUAGE
+
+# Vocabulary, Syntax, and Grammar: Linguistics and Design
+
+In creating this system for architectural design, Alexander borrowed heavily from linguistics and mathematics. Indeed, he analogizes his pattern language to logical languages, which contain two features:
+1. A set of elements, or symbols.
+2. A set of rules for combining these symbols.
+
+Alexander explains that natural languages, such as English, represent more a complex variation of this simple logical language.
+
+The two elements are again present. A natural language consists of words and then rules that outline the permissible arrangements of words.
+
+However, a natural language also defines the relationships between words. Alexander writes, “there is . . . a structure on t
+he words —the complex network of semantic connections, which defines each word in terms of other words, and shows how words are connected to other words.”
+
+Just as a natural language contains words and rules of grammar for creating sentences that make sense, so too an architectural pattern language contains both a vocabulary of patterns and syntax for combining those patterns to create buildings that make sense. Alexander finds direct analogues between the systems of natural languages and pattern languages:
+Natural Language
+Pattern Language
+Words
+Patterns
+Rules of grammar and meaning which give connections [between words]
+Patterns which specify connections between patterns
+Sentences
+Buildings and places
+72
+The individual patterns in Alexander’s works serve as the equivalent to a “vocabulary” or collection of words in a language. Alexander’s 
