@@ -15,13 +15,10 @@ However, a natural language also defines the relationships between words. Alexan
 he words —the complex network of semantic connections, which defines each word in terms of other words, and shows how words are connected to other words.”
 
 Just as a natural language contains words and rules of grammar for creating sentences that make sense, so too an architectural pattern language contains both a vocabulary of patterns and syntax for combining those patterns to create buildings that make sense. Alexander finds direct analogues between the systems of natural languages and pattern languages:
-Natural Language
-Pattern Language
-Words
-Patterns
-Rules of grammar and meaning which give connections [between words]
-Patterns which specify connections between patterns
-Sentences
-Buildings and places
-72
-The individual patterns in Alexander’s works serve as the equivalent to a “vocabulary” or collection of words in a language. Alexander’s 
+Natural Language /Pattern Language
+Words / Patterns
+Rules of grammar and meaning which give connections [between words] / Patterns which specify connections between patterns
+Sentences / Buildings and places
+
+The individual patterns in Alexander’s works serve as the equivalent to a “vocabulary” or collection of words in a language. Alexander’s patterns describe particular design problems and solutions. Alexander’s work also contains a “syntax” or system to link together the individual 
+patterns or vocabulary into longer, more complex descriptions of design solutions (that is, buildings, neighborhoods, and cities).
