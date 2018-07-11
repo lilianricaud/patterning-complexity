@@ -1,6 +1,3 @@
-
-CONTRACT AS PATTERN LANGUAGE
-
 # Vocabulary, Syntax, and Grammar: Linguistics and Design
 
 In creating this system for architectural design, Alexander borrowed heavily from linguistics and mathematics. Indeed, he analogizes his pattern language to logical languages, which contain two features:
@@ -22,3 +19,8 @@ Sentences / Buildings and places
 
 The individual patterns in Alexander’s works serve as the equivalent to a “vocabulary” or collection of words in a language. Alexander’s patterns describe particular design problems and solutions. Alexander’s work also contains a “syntax” or system to link together the individual 
 patterns or vocabulary into longer, more complex descriptions of design solutions (that is, buildings, neighborhoods, and cities).
+
+## Source
+
+CONTRACT AS PATTERN LANGUAGE
+https://digital.law.washington.edu/dspace-law/bitstream/handle/1773.1/1312/88WLR1323.pdf
