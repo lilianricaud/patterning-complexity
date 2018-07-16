@@ -11,6 +11,21 @@ into parts ...
 
 This is a process of starting with wholes then creating parts by differentiation.
 
+## Patterning Eishin sequence
+
+the 1985 Eishin project is a practice-oriented description in which theories are brought to bear. Abridging the book into a brief, the practices employed can be traced with 8 activities (Ing 2015, 12–32)
+Interview on hopes and dreams
+1. Make a “poetic vision” as first sketch of a pattern language
+2. Make the rudimentary pattern language physically coherent
+3. Refine the language through discussions
+4. Obtain approval of the pattern language
+5. Renegotiate pattern language with space and money within budget
+6. Find systems of centers in (i) the pattern language, and (ii) the places in the land. Combine
+them.
+7. Adjust the site plan on the site itself (not on models)
+
+source: Ing, D. Negotiating Order with Generative Pattern Language: Page - 6
+
 ## Permaculture design: 
 
 Start with elements (parts)
