@@ -9,20 +9,17 @@ Later in this course we are going to count features, and measure parameters that
 There is a problem with saying that we “like” something. This is not the same as the perceived degree of life. After all, even the most monstrous, inhuman building was liked sufficiently by both its architect and the client who commissioned it. We also know that the trillion-dollar advertising industry exists principally to manipulate our opinion of what we like.
 
 The perception of “life” in objects comes instead from a deep connection established between the observer or user, and the object. It comes from a physiological, intuitive interdependence, which we can choose to ignore but probably cannot change.
-Alexander lists some characteristics of this emotional connection to artifacts and structures:
 
-    We feel a sense of nourishment from them. 
-    If we participate in actually making them, we also feel this sense of nourishment. 
-    When we can identify this connection and distinguish it from media-influenced liking, then we find that we agree with many other people. 
-    This is not merely an aesthetic judgment, but something that overlaps with deeper aspects of culture and life. 
-    The connection can be checked empirically, and is not a simple matter of opinion.
+Alexander lists some characteristics of this emotional connection to artifacts and structures:
+- We feel a sense of nourishment from them. 
+- If we participate in actually making them, we also feel this sense of nourishment. 
+- When we can identify this connection and distinguish it from media-influenced liking, then we find that we agree with many other people. 
+- This is not merely an aesthetic judgment, but something that overlaps with deeper aspects of culture and life. 
+- The connection can be checked empirically, and is not a simple matter of opinion.
 
 Judging the relative degree of positive connection we experience personally between ourselves and either of two objects is easy. It relies upon a psychological trick to give us the result. The trick forces our brain to compute the organized complexity of the two objects in a comparative, though not absolute, manner.
 
 Alexander’s “mirror of the self” test asks which of two objects that I experience provides a better picture of myself. We have to imagine all of our personality, our strengths and weaknesses, our humanity, our emotions, our potential, and our life experiences as somehow encoded in the structure of these two objects. Then, which of the two objects is a more faithful representation of my self?
-Save this picture!
-Villa Capra (La Rotonda) / Andrea Palladio. "We have to imagine all of our personality, our strengths and weaknesses, our humanity, our emotions, our potential, and our life experiences as somehow encoded in the structure of these two objects. Then, which of the two objects is a more faithful representation of my self?" . Image © Flickr CC user Sebastià Giralt
-Villa Capra (La Rotonda) / Andrea Palladio. "We have to imagine all of our personality, our strengths and weaknesses, our humanity, our emotions, our potential, and our life experiences as somehow encoded in the structure of these two objects. Then, which of the two objects is a more faithful representation of my self?" . Image © Flickr CC user Sebastià Giralt
 
 Alexander found that more than 80% of people choose the one object from the pair presented that also has the higher degree of life, as computed by other objective measures. Therefore, we could dispense with any of those calculations and just ask this single question about mirroring our self. The correlation is high enough to make it a very useful — though not infallible — test.
 
@@ -37,9 +34,6 @@ There exist two totally distinct conceptions of a shared experience of the world
 If we are indeed caught inside an unreal world, reinforced because it is shared with others, these tools can help us to break out. A different way of describing the “mirror of the self” test is to feel how an object or specific environment affects our humanity. Ask yourself: “is my own sense of humanity increasing or decreasing by being exposed to this particular structure?” Here we can forget our mechanical civilization and use only our intuition about our inner emotional states.
 
 The “mirror of the self” test picks out what reminds us of nature, such as natural scaling hierarchies, the organized complexity of natural materials, and other geometrical features that make an object feel more “alive”. When we connect to an environment because we feel part of it, and comfortable in it, we can perform our lives and functions with more pleasure and less stress. This sense of wellbeing does not register consciously.
-Save this picture!
-The Erechtheion in Athens. "Often, we experience a high degree of life from objects and buildings with imperfections — semi-ruined buildings, antique artifacts with damaged parts, etc. That does not diminish their appeal". Image © Flickr CC user Marc (progressionuk)
-The Erechtheion in Athens. "Often, we experience a high degree of life from objects and buildings with imperfections — semi-ruined buildings, antique artifacts with damaged parts, etc. That does not diminish their appeal". Image © Flickr CC user Marc (progressionuk)
 
 Often, we experience a high degree of life from objects and buildings with imperfections — semi-ruined buildings, antique artifacts with damaged parts, etc. That does not diminish their appeal. Tourists travel a long way to see and experience ruins, and collectors buy antique carpets with holes in them.
 
