@@ -1,6 +1,7 @@
 # Salingaros pattern explanation
 
 Some additional explanation of the pattern concept, by Nikos Salingaros.
+
 Identifying any type of pattern follows the same criteria in architecture as in hardware or software.
 
 1. A repeating solution to the same or similar set of problems, discovered by independent researchers and users at different times.
