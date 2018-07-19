@@ -2,7 +2,7 @@
 
 **Everything in nature is “generated” but is, in fact, never “copied”. Each example of an object or organism is created from the same design template, yet the result differs slightly each time. Individual objects and organisms differ because STEP-BY-STEP-GENERATION and LOCAL ADAPTATION creates small variations.**
 
-Monotony and variety can apply to both the natural and the artificial environments. In our artificial or built environment are two distinct classes of object: copied and generated. A template, or set of design rules, that allows some freedom of execution generates objects; it does not copy them. A copy is literally stamped out.
+Monotony and variety can apply to both the natural and the artificial environments. In our artificial or built environment are two distinct classes of object: copied and generated (GENERATIVE PROCESS). A template, or set of design rules, that allows some freedom of execution generates objects; it does not copy them. A copy is literally stamped out.
 
 Designing and building in a generative process involves many steps, each of which addresses a range of factors, introducing variety, just as in nature. Variations are the result of environmental forces that differ from place to place and in the same place at different times.
 
