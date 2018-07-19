@@ -1,4 +1,11 @@
 
+# Slingaros process for mining living patterns
+
+## Find a complex/living context
+
+The complexity of the best, most humanly adapted living configurations, which solve more than one design problem simultaneously, is high. A setting that has positive effects on the user’s wellbeing probably has several patterns working together to satisfy a combination of system dynamics (some of which are not obvious). So a researcher trying to document patterns must first disentangle them from one another.
+
+## Observe, start by what is known
 
 As in most scientific research, you first detect known patterns.
 What is left contains the new patterns. This discovery process is necessarily sequential (STEP-BY-STEP ADAPTATION), and cannot be achieved all at once.
