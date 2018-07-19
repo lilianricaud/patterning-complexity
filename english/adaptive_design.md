@@ -1,6 +1,8 @@
 
 # ADAPTIVE DESIGN
 
+Adaptive design is a problem in mathematical complexity and human physiology/psychology, not in visual aesthetics
+
 Design that adapts to LOCAL CONDITIONS
 
 ## Criteria for adaptive design success:
