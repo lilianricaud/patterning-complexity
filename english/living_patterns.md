@@ -25,5 +25,12 @@ After selecting a pattern, the designer must figure out the correct combinatoric
 
 Many wrongly believe that a pattern is just a repeating solution, so they tend to look at the most common solutions to solve specific design problems. As a result the solution they end up examining is often a mediocre typology; it’s a pattern that has become embedded in design practice for reasons independent of its capacity for healing. Its implementation has never undergone adequate scientific evaluation, or any evaluation at all. Worse yet, the result of applying it may be disastrous.
 
-
 -> SALINGAROS PATTERN MINING
+
+## Living architecture relies upon EMERGENCE.
+
+Spaces that feel the most alive, and catalyze the highest intensity of human life, are the result of emergence. This
+phenomenon requires that an enormous number of environmental forces align and collaborate to generate “flow”, “coherence”, or “wholeness” (QUALITY WITHOUT A NAME). Three conditions are necessary for emergence to occur, although their presence
+does not guarantee it.
+
+
