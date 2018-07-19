@@ -1,6 +1,8 @@
 # Salingaros pattern explanation
 
-Some additional explanation of the pattern concept, by Nikos Salingaros.
+Patterns describe essential relationships among the elements of systems, and provide a unique and useful tool for handling and organizing complexity.
+
+
 
 Identifying any type of pattern follows the same criteria in architecture as in hardware or software.
 
@@ -10,4 +12,11 @@ Identifying any type of pattern follows the same criteria in architecture as in 
 4. A pattern may be discovered or "mined" by "excavating" successful practices developed by trial‐and‐error already in use, but which are not consciously treated as a pattern by those who use it. A successful pattern is already in use somewhere, perhaps not everywhere, but it does not represent a utopian or untried situation. Nor does it represent someone's opinion of what "should" occur.
 5. A pattern must have a higher level of abstraction that makes it useful on a more general level, otherwise we are overwhelmed with solutions that are too specific, and thus useless for any other situation. A pattern will have an essential area of vagueness that guarantees its universality.
 
-Source: http://p2purbanism.blogspot.fr/2010/09/michel-bauwens-interviews-nikos.html?spref=tw
+
+Computer researchers have adopted the pattern method both to understand and to manipulate complexity.
+Advances in our knowledge of how patterns reflect the ordered complexity of nature has led to breakthroughs in computer technology that continue to fuel economic growth and development not just in industry but in every realm of our society (Leitner, 2015; Mehaffy & Salingaros, 2015).
+
+
+## Source: 
+Salingaros 2017
+http://p2purbanism.blogspot.fr/2010/09/michel-bauwens-interviews-nikos.html?spref=tw
