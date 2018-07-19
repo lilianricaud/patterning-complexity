@@ -3,6 +3,7 @@
 Patterns describe essential relationships among the elements of systems, and provide a unique and useful tool for handling and organizing complexity.
 
 
+The pattern format recommends a set of design constraints; relationships that narrow the specific expression of any given design solution. This constraining specificity enables the transmission of such healing knowledge from one culture, historical time and place to another (Salingaros, 2005: Chapter 8).
 
 Identifying any type of pattern follows the same criteria in architecture as in hardware or software.
 
@@ -15,6 +16,8 @@ Identifying any type of pattern follows the same criteria in architecture as in 
 
 Computer researchers have adopted the pattern method both to understand and to manipulate complexity.
 Advances in our knowledge of how patterns reflect the ordered complexity of nature has led to breakthroughs in computer technology that continue to fuel economic growth and development not just in industry but in every realm of our society (Leitner, 2015; Mehaffy & Salingaros, 2015).
+
+Patterns are an adaptive design tool — already available, developed previously by someone else. Their documentation saves architects an enormous amount of work. They need not rethink everything to implement a new project. The flexibility of living patterns means that what is re-used is only the most relevant structural relationship, conveyed as an evidence-based proposition. A living pattern does not merely copy an image from the past but implements the latest upgrade. In this sense, living patterns are tools of evolutionary, adaptive design (Leitner, 2015; Mehaffy & Salingaros, 2015: Chapter 18).
 
 
 ## Source: 
