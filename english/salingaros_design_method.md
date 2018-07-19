@@ -31,3 +31,19 @@ upon, individual regions on the next smaller scales may be tackled. One works wi
 specific design problem. The number five comes from a "chunk" of disparate pieces of information that the mind
 can juggle simultaneously 3 . Again, one can choose from among the original Alexandrine patterns, or if required, a
 new pattern is derived for the occasion.
+
+## Preserve what is most valuable.
+
+In urban restructuring, it is essential to preserve what has most life in the existing environment. Because of the
+infection by mind-viruses discussed later, it is almost always the case that urban renewal destroys the few
+objects and places that have life in any neighborhood. It is therefore necessary to identify these by common consent, and to put a priority on preserving them so that they are saved intact in any new plan. Examples of failing
+to do this abound around the world. In one instance, the Indonesian Government rebuilt an entire village that was
+destroyed in an earthquake. The planners ignored the traditional sacred places in the old village, with nothing 
+to take their place in the new village. The result was a loss of culture and identity, with a severe disorientation and cultural breakdown.
+
+It is the people themselves, infected with anti-patterns from the media and education, that usually want to
+eliminate their most sacred urban places. Those are incorrectly identified with the past, and with a way of life
+that most residents are ashamed of and wish to erase. People are frequently seduced by empty images of
+prosperity that they have ingested from magazines, and imagine that if only their environment would look like
+empty North American suburbs, they too can aspire to a high standard of living.
+
