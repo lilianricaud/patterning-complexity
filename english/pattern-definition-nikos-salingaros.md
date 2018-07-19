@@ -1,5 +1,10 @@
 # Salingaros pattern explanation
 
+A "pattern" is, quite simply, a recurring solution (here for a problem in architecture or urban design, but generally for any social or technical problem). 
+
+Regardless of how the solution was originally obtained, as soon as human beings identify a pattern and communicate it either orally or graphically, this confers an enormous advantage to the group. The ability to communicate patterns eventually builds an arsenal of reusable design knowledge. Thus, the language of patterns is closely linked to culture and tradition. 
+
+Each pattern represents a rule governing one working piece of a complex system. A pattern language allows patterns on a smaller scale to combine and support patterns on a larger scale. Large-scale patterns themselves are necessary because they contain more information than the smaller-scale patterns on which they rely, thus showing emergent properties.
 
 Patterns describe essential relationships among the elements of systems, and provide a unique and useful tool for handling and organizing complexity.
 
