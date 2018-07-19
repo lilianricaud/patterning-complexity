@@ -30,7 +30,6 @@ Many wrongly believe that a pattern is just a repeating solution, so they tend t
 ## Living architecture relies upon EMERGENCE.
 
 Spaces that feel the most alive, and catalyze the highest intensity of human life, are the result of emergence. This
-phenomenon requires that an enormous number of environmental forces align and collaborate to generate “flow”, “coherence”, or “wholeness” (QUALITY WITHOUT A NAME). Three conditions are necessary for emergence to occur, although their presence
-does not guarantee it.
+phenomenon requires that an enormous number of environmental forces align and collaborate to generate “flow”, “coherence”, or “wholeness” (QUALITY WITHOUT A NAME). 
 
 
