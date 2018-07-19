@@ -17,7 +17,19 @@ Identifying any type of pattern follows the same criteria in architecture as in 
 Computer researchers have adopted the pattern method both to understand and to manipulate complexity.
 Advances in our knowledge of how patterns reflect the ordered complexity of nature has led to breakthroughs in computer technology that continue to fuel economic growth and development not just in industry but in every realm of our society (Leitner, 2015; Mehaffy & Salingaros, 2015).
 
-Patterns are an adaptive design tool — already available, developed previously by someone else. Their documentation saves architects an enormous amount of work. They need not rethink everything to implement a new project. The flexibility of living patterns means that what is re-used is only the most relevant structural relationship, conveyed as an evidence-based proposition. A living pattern does not merely copy an image from the past but implements the latest upgrade. In this sense, living patterns are tools of evolutionary, adaptive design (Leitner, 2015; Mehaffy & Salingaros, 2015: Chapter 18).
+## Patterns as design constraints
+
+Alexander’s The Nature of Order (Alexander, 2001-2005) correctly understands
+such patterns as constraints in a sophisticated system of computational design. You
+choose from among an infinite number of generated options that satisfy an
+interrelated group of patterns. All of these solutions are adaptive. The more
+constraints you impose, the narrower the set of good solutions. The design process
+may include adaptive constraints such as climate, site, orientation, interaction with
+the environment and surrounding structures, etc.
+
+## Patterns ad adaptive design tools
+
+Patterns are an ADAPTIVE DESIGN tool — already available, developed previously by someone else. Their documentation saves architects an enormous amount of work. They need not rethink everything to implement a new project. The flexibility of living patterns means that what is re-used is only the most relevant structural relationship, conveyed as an evidence-based proposition. A living pattern does not merely copy an image from the past but implements the latest upgrade. In this sense, living patterns are tools of evolutionary, adaptive design (Leitner, 2015; Mehaffy & Salingaros, 2015: Chapter 18).
 
 
 ## Source: 
