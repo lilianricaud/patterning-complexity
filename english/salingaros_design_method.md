@@ -6,6 +6,20 @@ The design method used by Salingaros in practice (Salingaros 2017).
 
 One first holds preliminary discussions with residents of any region to establish the major, i.e., most significant patterns for them. This could be by consensus or via a majority vote, but only after some discussion to "mine" for patterns hidden in the residents' subconscious. For example, in designing the Eishin School Campus in Tokyo, Alexander found to his surprise that most teachers and students interviewed put a lake as their top priority. He then built an artificial lake, and this feature is what makes the school most extraordinary. An insensitive architect and contractor would have dismissed this wish as outrageous, and actually, some interviewees were initially afraid to express their vision of the lake, because they feared that it was too crazy to even mention.
 
+### Use emotions in design
+
+In his projects, Alexander experienced again and again the emotional dimension of design when trying to "mine"
+for patterns. For example, in preparing for the Eishin School outside Tokyo, he asked the teachers and staff to
+imagine the most beautiful environment to teach in. At first they thought it was a joke, but then became very
+emotional when they related visions of walking along a lake between classes, and concluded that encouraging
+such a dream was cruel because it was incompatible with contemporary fortress-like concrete schools in an urban
+setting. At another occasion, in designing a new community at Chikusadai, Nagoya, also in Japan, he asked families to actually draw the plan of their house.
+
+While they were doing so, many of them cried out of emotion, since they had expected to be given a standard
+fixed, or at best a modular design. There is simply no way to decide on geometry -- whether the shape of a building, the shape of a path, or the relationship between two structures -- without using emotions. The human brain is the world's most sophisticated and powerful computer, and it alone is capable of making the astronomical number of parallel computations needed to decide the best position for placing an object. Forget the simplistic method of alignment to an artificial rectangular grid: it is the easy way out for architects who wish to avoid difficult decisions. In designing the Eishin campus, Alexander had people holding flags on poles move around the site so as to experience the best position for the planned buildings.
+
+In the words of the client, the headmaster Mr. Hosoi: "We could feel the actual buildings ... standing there"
+
 ## Draft pattern language
 
 Once the residents' deepest wishes are noted, then the architects have to come up with patterns to express those desires written in pattern format, as in A Pattern Language 1 . If such high-priority patterns are not already documented in the pattern language, they have to be researched by looking at the most beautiful examples in existence around the world, and identifying what makes those examples so successful. It could be geometry, position, connectivity, or a relationship to other patterns. In the meantime, the architects should have picked out a dozen documented Alexandrine patterns that are most relevant to the job at hand. These are going to be presented to the residents in pictorial form.
@@ -46,4 +60,15 @@ eliminate their most sacred urban places. Those are incorrectly identified with 
 that most residents are ashamed of and wish to erase. People are frequently seduced by empty images of
 prosperity that they have ingested from magazines, and imagine that if only their environment would look like
 empty North American suburbs, they too can aspire to a high standard of living.
+
+The computer scientist Thomas Erickson 4 has reached the same conclusion. He reviews the work of the urbanist
+Randolph Hester 5 in revitalizing the town of Manteo, North Carolina. Although not originally expressed in
+those terms, Hester and his team "mined" for socio-urban patterns important to that community before rebuilding
+anything. These had to be observed directly, since no-one talked about them. Once this "sacred structure" was
+identified, all construction was aimed at reinforcing rather than destroying it. What is important here is that
+the town's sacred structure was not composed of any building or urban construction that would be classed as
+"important" according to current architectural and urban criteria. Architecturally, the town's "sacred structure"
+was a network of negligible and insignificant places, buildings, and bits of built form -- this nevertheless
+provided a matrix for the life of the town. By following this plan, the town was extremely successful in
+regenerating itself
 
