@@ -1,7 +1,10 @@
 # Salingaros pattern explanation
 
+
 Patterns describe essential relationships among the elements of systems, and provide a unique and useful tool for handling and organizing complexity.
 
+Patterns are the basic tools for organizing complexity. They do not erase complexity. Patterns are used by those who
+build complex systems.
 
 The pattern format recommends a set of design constraints; relationships that narrow the specific expression of any given design solution. This constraining specificity enables the transmission of such healing knowledge from one culture, historical time and place to another (Salingaros, 2005: Chapter 8).
 
