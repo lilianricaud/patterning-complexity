@@ -5,6 +5,8 @@
 
 The complexity of the best, most humanly adapted living configurations, which solve more than one design problem simultaneously, is high. A setting that has positive effects on the user’s wellbeing probably has several patterns working together to satisfy a combination of system dynamics (some of which are not obvious). So a researcher trying to document patterns must first disentangle them from one another.
 
+Because a living pattern solves a group of linked problems, its complexity is often underestimated. Most living patterns have evolved in context, embedded in highly complex adaptive systems from which they cannot be easily isolated. **They work because they satisfy many different system dynamics (some of which may not even be known)**. Ignoring adaptation and complexity can lead to superficial solutions that prove inadequate or wrong. Typologies that fail to solve a problem adaptively, yet are tried again and again despite their poor utility, fool us because they could solve one part of a problem. They also generate some serious problems in other parts of the system.
+
 ## Observe, starting by what is known
 
 As in most scientific research, you first detect known patterns.
@@ -34,5 +36,26 @@ An archetypal living pattern must deliver the strongest and most positive effect
 
 **Finding a living pattern requires looking for the best possible built example, like a collector searching for the very finest seashell or antique coin specimen.** This process of discovery presupposes experience, and a highly tuned sensitivity to healing environments.
 
+
+## Evaluating new patterns
+Simple tests can validate a living pattern and distinguish it from a non-adaptive typology prior to implementation. For instance, check to see if a pattern links to tested patterns outside its immediate domain. Focus on emotional feedback from real-life instances where it has been applied. These measures can give clues to whether we are dealing with a pattern or an arbitrary typology, and predict if it is going to be useful or harmful (Salingaros, 2005).
+
+In order to discover optimal solutions quickly, design students may look at simple situations rather than explore
+all possible variants and precedents.
+
+## Using patterns
+
+We need to select precisely those patterns required for any adaptive solution. Do we have all the relevant patterns
+ready, worked out and documented? It might be that, while we have access to some living patterns, no pattern has yet
+been discovered for each of the new problems we face in the 21 st century. The task of the designer, architect, and
+planner is to invent or extract such living patterns before proceeding further.
+
+How many living patterns do we include in trying to solve a design problem? Work with too many, and we confuse user
+and over-burden the designer (Salingaros, 2005). So use only a small set of the most relevant patterns at any one
+time.
+
+The most robust links among individual patterns are not always obvious, nor do techniques for combining them
+necessarily follow a simple logic. Here is where Christopher Alexander’s work on organizational coherence provides the tools to solve the problem (Alexander, 2001-2005). The strategy is to take steps to combine the chosen patterns in increasingly coherent geometrical and functional configurations. And remember, it’s impossible to achieve
+such coherence in one step. (-> use STEP BY STEP ADAPTATION).
 
 Salingaros 2017
