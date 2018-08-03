@@ -38,5 +38,6 @@ ex: réseau coopératif ouvert
 - GÉNÉRER LANGAGE DE PATTERNS EISHIN SEQUENCE
 - CARTOGRAPHIE DES PATTERNS GROUPWORKS
 - LANGAGE DE PATTERNS SUR LES LANGAGES DE PATTERNS
+- IBA PATTERN MINING
 
 Taking the analogy of the hacker approach further, one can imagine such patterns and pattern languages being used to reverse engineer hidden phenomena and processes, including ‘black box’ algorithms, which directly influence socio-technological processes, and produce indirect/emergent effects on socio-ecological systems.

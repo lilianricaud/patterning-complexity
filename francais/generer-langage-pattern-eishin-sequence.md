@@ -48,5 +48,12 @@ Adapté de Alexander, C. The battle for the life and beauty of the earth
 Traduction: Melanie_Lac, Lilian Ricaud.
 CC-BY-SA
 
+## Cartes liées
+
+- CARTOGRAPHIE DES PATTERNS
+- CARTOGRAPHIE DES PATTERNS GROUPWORKS
+- CARTOGRAPHIE DES PATTERNS ORGANISATION
+- LANGAGE DE PATTERNS SUR LES LANGAGES DE PATTERNS
+- IBA PATTERN MINING
 
 
