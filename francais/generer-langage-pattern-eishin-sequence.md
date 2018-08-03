@@ -27,7 +27,6 @@ Définir les configurations possibles que le langage génère
 ### 2 Entités (spatiales)
 Le langage englobe et définit plusieurs entités, les relations sont définies entre ces entités.
 
-
 ### 3 Fiabilité
 Les relations sont fiables et véritables, pas arbitraires.
 
