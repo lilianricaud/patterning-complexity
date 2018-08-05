@@ -1,4 +1,4 @@
-# Identifier des patterns (groupworks)
+# CARTOGRAPHIE DES PATTERNS (GROUPWORKS)
 
 Le collectif groupworks a utilisé l'approche des langage de pattern pour identifier les ingrédients clés favorisant l'intelligence collective dans les rencontres. 
 
