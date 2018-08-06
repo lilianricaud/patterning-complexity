@@ -12,3 +12,6 @@ The 'language' combines the nodes into an organizational framework. A loose coll
   
 Salingaros, N. 2000; The structure of pattern languages.
 
+PATTERNS VALIDATION
+LANGUAGE TRANSFORMING RULES
+
