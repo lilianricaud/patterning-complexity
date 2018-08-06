@@ -1,8 +1,10 @@
 # PATTERNS VALIDATION
 
+PATTERN MINING PROCESSES
+
 Quite separate from the internal validation offered by their ability to combine, what demonstrates the patterns' inevitability is their connection to fundamental patterns of human behaviour and movement. 
 
-**One of the principal methods of validating a pattern language is that every pattern be connected vertically to patterns on both higher and lower levels.** (PATTERNS HIERARCHICAL CONNECTION). Damage to a pattern language can be understood visually, by crossing out any single pattern.
+**One of the principal methods of validating a pattern language is that every pattern be connected vertically to patterns on both higher and lower levels.** (PATTERNS HIERARCHICAL CONNECTION). Damage to a pattern language can be understood visually, by crossing out any single pattern (use PATTERN CONNECTIVE MAP).
 
 Many human functions and interactions are facilitated by the proposed urban geometry, and we could graphically link behavioural patterns to these architectural patterns directly. 
 
