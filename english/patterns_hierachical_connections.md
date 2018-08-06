@@ -1,6 +1,6 @@
 # PATTERNS HIERARCHICAL CONNECTION
 
-Hierarchical connections across scales 
+Hierarchical connections across scales exist in pattern languages.
 
 Every COMPLEX SYSTEM has a hierarchical structure (SYSTEMS HIERACHICAL STRUCTURE); i.e., different processes are occurring on different scales or levels. Connections exist both on the same levels, and across level (Mesarovic, Macko et al., 1970). 
 

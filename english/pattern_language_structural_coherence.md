@@ -16,6 +16,6 @@ Thus, each level of a coherent structure expresses a property that is characteri
 
 
 
-In practice, pattern languages arise from two very different needs: (a) as a way of understanding, and possibly controlling, a complex system; (b) as necessary design tools with which to build something that is functionally and structurally coherent. 
+
 
 To visualize patterns and their interconnections, we use a graph representation. Patterns may be identified with nodes in a graph, and the graph is connected by edges of different lengths [Fig. 15]. 
