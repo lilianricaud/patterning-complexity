@@ -24,7 +24,11 @@ According to Alexander, LIVING PATTERNS cannot be conceived but have to be mined
 
 ## DESIGN PATTERNS
 
-Inspired by Christopher Alexander's work, computer scientists and developpers used the The 3-PARTS RULE format of patterns to describe good practice in their field 
+Computer researchers have adopted the pattern method both to understand and to manipulate complexity.
+
+Inspired by Christopher Alexander's work, they use the The 3-PARTS RULE format of patterns to describe good practice in their field.
+
+## SALINGAROS PATTERN DEFINITION
 
 
 ## ANTIPATTERNS
