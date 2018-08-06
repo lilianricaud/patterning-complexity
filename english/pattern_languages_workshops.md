@@ -1,4 +1,4 @@
-# Patterns languages workshops  
+# PATTERN LANGAGES WORKSHOPS  
 
 Objectives constraints Ressources Action timeline   
 
@@ -16,8 +16,7 @@ Sixth, **multiple ways can be developed for extracting learnings from any specif
 
 
 
-A secondary objective of the workshops was to explore ways of capturing information that might reveal which patterns
-or clusters of patterns tend to be more useful in specific settings or domains, and potentially "seed" the development of "sub-languages" for those who would concretely engage in the development and implementation of solutions. For example, in the Public Thinking and Public Health program, and using a subset of the pattern (65), reports generated from compiling the Pattern Checklists are best viewed as results from "thought experiments" in response to the question, "Which patterns and clusters of patterns might be most useful for supporting civic engagement in the domain of public health and health activism?" So, for example, these ten patterns (with pattern number provided in parentheses for reference) were independently selected by eight out of the ten projects/scenario teams, and therefore might be considered as the core of a specific pattern language for public health:
+A secondary objective of the workshops was to explore ways of capturing information that might reveal which patterns or clusters of patterns tend to be more useful in specific settings or domains, and potentially "seed" the development of "sub-languages" for those who would concretely engage in the development and implementation of solutions. For example, in the Public Thinking and Public Health program, and using a subset of the pattern (65), reports generated from compiling the Pattern Checklists are best viewed as results from "thought experiments" in response to the question, "Which patterns and clusters of patterns might be most useful for supporting civic engagement in the domain of public health and health activism?" So, for example, these ten patterns (with pattern number provided in parentheses for reference) were independently selected by eight out of the ten projects/scenario teams, and therefore might be considered as the core of a specific pattern language for public health:
 
 - Big-Picture Health Information (27)
 - Education and Values (17)
@@ -31,7 +30,6 @@ or clusters of patterns tend to be more useful in specific settings or domains, 
 - Transforming Institutions (19)
 
 
-Finally, the in-person workshops can be viewed as possible prototypes for online versions where participants are
-distributed in multiple locations and are unable to get together in person. The snapshot of the "game board" (Fig. 4) from the Aging Population team in the Public Thinking and Public Health program at Evergreen shows one possible shared view of a hypothetical online workshop in progress.
+Finally, the in-person workshops can be viewed as possible prototypes for online versions where participants are distributed in multiple locations and are unable to get together in person. The snapshot of the "game board" (Fig. 4) from the Aging Population team in the Public Thinking and Public Health program at Evergreen shows one possible shared view of a hypothetical online workshop in progress.
 
 
