@@ -11,3 +11,5 @@ In practice, it is very cumbersome to work from a complete catalogue of discover
 **A SIMPLIFIED CONNECTIVE LIST can drastically improve the utility of any pattern language**. 
 
 PATTERN CARDS make it easier to manipulate pattern than books.
+
+PATTERN LANGAGES WORKSHOPS.

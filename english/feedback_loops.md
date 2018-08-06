@@ -1,4 +1,4 @@
-# Feedback loop
+# FEEDBACK LOOPS
 
 Feedback occurs when outputs of a system are routed back as inputs as part of a chain of cause-and-effect that forms a circuit or loop
 
@@ -7,6 +7,6 @@ In biological systems such as organisms, ecosystems, or the biosphere, most para
 Biological systems contain many types of regulatory circuits, both positive and negative. As in other contexts, positive and negative do not imply that the feedback causes good or bad effects. A negative feedback loop is one that tends to slow down a process, whereas the positive feedback loop tends to accelerate it. 
 
 
-By using feedback properties, the behavior of a system can be altered to meet the needs of an application; systems can be made stable, responsive or held constant. It is shown that dynamical systems with a feedback experience an adaptation to the edge of chaos
+By using feedback properties, the behavior of a system can be altered to meet the needs of an application; systems can be made stable, responsive or held constant. It is shown that dynamical systems with a feedback experience an adaptation to the edge of chaos.
 
 https://en.wikipedia.org/wiki/Feedback
