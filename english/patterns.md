@@ -1,5 +1,13 @@
-# Patterns
+# PATTERNS
 
-Pattern of organization: configuration of relationships characteristic of aparticular system
+Pattern is a complex concept with several meaning and used slight differently in different disciplines.
 
-Alexandrian pattern or living/generative pattern: pattern of organization that enhance life/quality without a name within a particular system. Increase self-organization and system stability.
+## Pattern of organization (COMPLEX SYSTEMS): 
+
+configuration of relationships characteristic of a particular system
+
+## ALEXANDRINE PATTERNS / LIVING PATTERNS / GENERATIVE PATTERNS 
+
+pattern of organization that enhance LIFE/QUALITY WITHOUT A NAME within a particular system. Increase SELF-ORGANIZATION and system stability.
+
+## DESIGN PATTERNS
