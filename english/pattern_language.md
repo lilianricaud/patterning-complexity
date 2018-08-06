@@ -6,7 +6,7 @@ The LANGUAGE NATURE OF PATTERN LANGUAGES combines the nodes (PATTERNS) into an o
 
 As a complex system, a pattern language cannot be fabricated and must be generated using a GENERATIVE SEQUENCE (GENERATIVE SEQUENCE FOR PATTERN LANGUAGE GENERATION).
 
-
+Check for PATTERN LANGUAGES STRUCTURAL COHERENCE and PATTERNS HIERARCHICAL CONNECTION.
 
 
 

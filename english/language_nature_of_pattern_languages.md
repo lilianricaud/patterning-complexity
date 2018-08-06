@@ -14,4 +14,5 @@ Salingaros, N. 2000; The structure of pattern languages.
 
 PATTERNS VALIDATION
 LANGUAGE TRANSFORMING RULES
+PATTERNS READING ORDER
 
