@@ -12,13 +12,13 @@ Can be seen as invariant in flux (PATTERNS AS INVARIANTS IN FLUX).
 
 Architect Christopher Alexander proposed a new meaning for patterns. In Alexander's is only interested in pattern of organization that enhance LIFE/QUALITY WITHOUT A NAME within a particular system. 
 
-Increase SELF-ORGANIZATION and system stability.
+A living pattern solves a complex problem, increase SELF-ORGANIZATION and system stability.
 
 At their core, patterns describe a RELATIONSHIP/CONFIGURATION between elements (themselves being patterns of relationships).
 
 Alexander also proposed a formal description for documenting patterns that help leverage them as design tools.
 
-Patterns themselves are not to be used in isolation but in coherent framework called PATTERN LANGUAGE.
+Patterns themselves are not to be used in isolation but in coherent framework called PATTERN LANGUAGE. Patterns work via cooperation to build up complex wholes that coexist and compete in some dynamic balance.
 
 According to Alexander, LIVING PATTERNS cannot be conceived but have to be mined, ie GENERATED via a GENERATIVE SEQUENCE.
 
@@ -31,5 +31,7 @@ Inspired by Christopher Alexander's work, computer scientists and developpers us
 
 Not simply opposite of living patterns, but deadening patterns. 
 
-Some authors use antipatterns base approach to mine for living patterns (ANTIPATTERNS APPROACH), but Salingaros warns that you need several antipatterns to 
+Some authors use antipatterns base approach to mine for living patterns (ANTIPATTERNS APPROACH), but Salingaros warns that The solution space, which is distinct from the parameter space, is rarely one-dimensional, which means that knowing what doesn't work cannot give what works simply by doing the opposite. 
+
+There may be an infinity of different opposites. One needs to exhaust the solution space by identifying many neighbouring anti-patterns before zeroing in on the pattern itself. 
 

@@ -2,8 +2,9 @@
 
 Approach tried by Douglas Schuler and Justin Wagaman  The Surprising Power, Vitality, and Potentiality of Examining the “ Dark Side”.
 
+Salingaros warns that The solution space, which is distinct from the parameter space, is rarely one-dimensional, which means that knowing what doesn't work cannot give what works simply by doing the opposite. 
 
-
+There may be an infinity of different opposites. One needs to exhaust the solution space by identifying many neighbouring anti-patterns before zeroing in on the pattern itself. (Salingaros, N. 2000).
 
 
 The Collaborative Production of the Restraining Voices Anti-Pattern Language in an Educational Setting
