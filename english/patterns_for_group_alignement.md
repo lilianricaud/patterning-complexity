@@ -1,4 +1,4 @@
-# patterns for group alignement  
+# PATTERNS FOR GROUP ALIGNEMENT  
 
 Focusing on patterns and combinations of patterns as micro units of meaning at various levels and scales seeks to build coherence among perspectives rather than cohesion. 
 

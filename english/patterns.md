@@ -35,3 +35,7 @@ Some authors use antipatterns base approach to mine for living patterns (ANTIPAT
 
 There may be an infinity of different opposites. One needs to exhaust the solution space by identifying many neighbouring anti-patterns before zeroing in on the pattern itself. 
 
+## PATTERNS FOR GROUP ALIGNEMENT
+
+PATTERNS AS SOCIAL OBJECTS can help for GROUP ALIGNEMENT (PATTERNS FOR GROUP ALIGNEMENT).
+

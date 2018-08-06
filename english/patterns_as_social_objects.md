@@ -1,4 +1,4 @@
-## Social Objects
+# PATTERNS AS SOCIAL OBJECTS
 
 Schuller et al (2011) are "cautiously optimistic that thinking about patterns as social objects (note 1) will be advantageous to our project. Some of this optimism has been prompted through our experiences with the cards. While specific patterns (as well as the idea of patterns and pattern languages generally) are somewhat abstract, the patterns became objects when they take some discrete form — in which they can be manipulated; i.e. they become "objects."
 
@@ -6,19 +6,17 @@ When objects become "social" they obviously can be called social objects. But wh
 
 I can climb a large rock and address the masses or I can hurl a smaller rock to smite an enemy. I can also impress people with my spectacular rock collection. But rocks are weak social objects at best. Strongly social objects are objects that are routinely or primarily used by people for communication and/or are intended by their creators to be used in that way.
 
-Social objects (physical and digital)
-based on the Librating Voices patterns can be used to help...
+Social objects (physical and digital) based on the Librating Voices patterns can be used to help...
 
 - people generate new ideas;
 - generate interest and expertise in a pattern / pattern language orientation;
 - generate new ideas for understanding their particular situation and furthering their mission;
 - people realize that they are capable of positive social impact;
 - further social imagination;
-- create new varieties of generative social phenomena. (i.e. things have been created that can themselves be built
-upon)
+- create new varieties of generative social phenomena. (i.e. things have been created that can themselves be built upon)
 - produce things that non-participants can use;
 - generate entire online applications or organizations;
-- engender group formation and collaboration;
+- engender group formation and collaboration; (PATTERNS FOR GROUP ALIGNEMENT)
 - "train the trainers";
 - help, in the Alexandrine sense, engender the existence of the pattern itself; i.e. the Civic Intelligence pattern can begat more civic intelligence while Everyday Heroism helps legitimatize more everyday heroism. But,
 additionally, Civic Intelligence can engender everyday heroism and vice versa.
