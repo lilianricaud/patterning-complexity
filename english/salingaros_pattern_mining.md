@@ -1,5 +1,8 @@
+# SALINGAROS MINING PROCESS
 
-# Slingaros process for mining living patterns
+Salingaros process for mining living patterns
+
+See also FINDING PATTERNS FOR NEW DISCIPLINES
 
 ## Find a complex/living environment
 
@@ -45,17 +48,10 @@ all possible variants and precedents.
 
 ## Using patterns
 
-We need to select precisely those patterns required for any adaptive solution. Do we have all the relevant patterns
-ready, worked out and documented? It might be that, while we have access to some living patterns, no pattern has yet
-been discovered for each of the new problems we face in the 21 st century. The task of the designer, architect, and
-planner is to invent or extract such living patterns before proceeding further.
+We need to select precisely those patterns required for any adaptive solution. Do we have all the relevant patterns ready, worked out and documented? It might be that, while we have access to some living patterns, no pattern has yet been discovered for each of the new problems we face in the 21 st century. The task of the designer, architect, and planner is to invent or extract such living patterns before proceeding further.
 
-How many living patterns do we include in trying to solve a design problem? Work with too many, and we confuse user
-and over-burden the designer (Salingaros, 2005). So use only a small set of the most relevant patterns at any one
-time.
+How many living patterns do we include in trying to solve a design problem? Work with too many, and we confuse user and over-burden the designer (Salingaros, 2005). So use only a small set of the most relevant patterns at any one time.
 
-The most robust links among individual patterns are not always obvious, nor do techniques for combining them
-necessarily follow a simple logic. Here is where Christopher Alexander’s work on organizational coherence provides the tools to solve the problem (Alexander, 2001-2005). The strategy is to take steps to combine the chosen patterns in increasingly coherent geometrical and functional configurations. And remember, it’s impossible to achieve
-such coherence in one step. (-> use STEP BY STEP ADAPTATION).
+The most robust links among individual patterns are not always obvious, nor do techniques for combining them necessarily follow a simple logic. Here is where Christopher Alexander’s work on organizational coherence provides the tools to solve the problem (Alexander, 2001-2005). The strategy is to take steps to combine the chosen patterns in increasingly coherent geometrical and functional configurations. And remember, it’s impossible to achieve such coherence in one step. (-> use STEP BY STEP ADAPTATION).
 
 Salingaros 2017
