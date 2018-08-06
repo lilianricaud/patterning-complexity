@@ -1,5 +1,7 @@
 # PATTERN LANGUAGE
 
+Pattern language is a design method and framework devised by architect Christopher Alexander and built around the concept of PATTERN. 
+
 Pattern languages encapsulate human experience, and help us cope with complexity in our environment. They apply to everything from computer programs, to buildings, to organizations, to cities. **A civilization's pattern languages are often synonymous with its technical and cultural heritage.** New spheres of human endeavour develop their own pattern language, which must link to existing pattern languages in related fields. Individual patterns are validated empirically over time.
 
 In practice, pattern languages arise from two very different needs: (a) as a way of understanding, and possibly controlling, a complex system; (b) as necessary design tools with which to build something that is functionally and structurally coherent. 

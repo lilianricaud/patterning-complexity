@@ -29,4 +29,7 @@ Inspired by Christopher Alexander's work, computer scientists and developpers us
 
 ## ANTIPATTERNS
 
+Not simply opposite of living patterns, but deadening patterns. 
+
+Some authors use antipatterns base approach to mine for living patterns (ANTIPATTERNS APPROACH), but Salingaros warns that you need several antipatterns to 
 

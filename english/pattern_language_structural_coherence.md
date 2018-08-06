@@ -18,4 +18,4 @@ Thus, each level of a coherent structure expresses a property that is characteri
 
 
 
-To visualize patterns and their interconnections, we use a graph representation. Patterns may be identified with nodes in a graph, and the graph is connected by edges of different lengths [Fig. 15]. 
+

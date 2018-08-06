@@ -1,10 +1,12 @@
-# ANTIPATTERNS approach to pattern design  
+# ANTIPATTERNS APPROACH to pattern design  
 
-Approach tried by Douglas Schuler and Justin Wagaman  The Surprising Power, Vitality, and Potentiality of Examining the “ Dark Side”
+Approach tried by Douglas Schuler and Justin Wagaman  The Surprising Power, Vitality, and Potentiality of Examining the “ Dark Side”.
 
- 
+
+
+
+
 The Collaborative Production of the Restraining Voices Anti-Pattern Language in an Educational Setting
- 
 
 In this project we actually tried to identify commonplace phenomena that are encouraging the degradation of the social and environmental worlds that we live in.  
 
