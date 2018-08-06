@@ -1,5 +1,7 @@
 # PATTERNS READING ORDER
 
+see also SEQUENCE OF PATTERNS USAGE.
+
 Alexander presents the Pattern Language as a practical tool, and orders the patterns in roughly decreasing size. That is the correct ordering when one is using them for design, since decisions on the largest scale have to be made first. Nevertheless, that presupposes that the patterns are understood to be true in a fundamental sense. 
 
 The problem is that mainstream architecture never entirely accepted Alexandrine patterns; it was the more sensitive and spiritual fringe movements that did. **To validate the above patterns, they have to be read in the opposite order: small to large.** 

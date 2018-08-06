@@ -1,4 +1,4 @@
-# Sequence of patterns
+# SEQUENCE OF PATTERNS USAGE
 
 In which order shall we use patterns ?
 
@@ -10,3 +10,5 @@ In which order shall we use patterns ?
 The more a sequence of patterns meet these 3 conditions, the more coherent a person's image is.
 
 Timeless way of building p 379.
+
+See also Salingaros PATTERNS READING ORDER

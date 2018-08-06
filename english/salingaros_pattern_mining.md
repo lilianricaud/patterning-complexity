@@ -1,5 +1,7 @@
 # SALINGAROS MINING PROCESS
 
+see also PATTERN MINING PROCESSES.
+
 Salingaros process for mining living patterns
 
 See also FINDING PATTERNS FOR NEW DISCIPLINES
