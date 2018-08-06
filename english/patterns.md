@@ -16,7 +16,7 @@ A living pattern solves a complex problem, increase SELF-ORGANIZATION and system
 
 At their core, patterns describe a RELATIONSHIP/CONFIGURATION between elements (themselves being patterns of relationships).
 
-Alexander also proposed a formal description for documenting patterns that help leverage them as design tools.
+Alexander also proposed a formal description for documenting patterns that help leverage them as design tools (PATTERN DESCRIPTION BY DAVID ING).
 
 Patterns themselves are not to be used in isolation but in coherent framework called PATTERN LANGUAGE. Patterns work via cooperation to build up complex wholes that coexist and compete in some dynamic balance.
 

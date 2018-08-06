@@ -1,3 +1,5 @@
+# PATTERN DESCRIPTION BY DAVID ING
+
 
 ## Alexandrian format vs David Ing proposed patterning system
 
