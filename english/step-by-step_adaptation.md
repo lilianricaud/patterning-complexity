@@ -1,6 +1,8 @@
 # STEP BY STEP ADAPTATION
 
-Alexander and agile method emphasize the importance of step by step adaptation to make sure we match the reality of what is at a certain mmoment and avoid costly design mistake.
+Alexander and agile method emphasize the importance of step by step adaptation to make sure we match the reality of what is at a certain moment and avoid costly design mistake.
+
+STRUCTURE-PRESERVING TRANSFORMATION
 
 Permaculture is starting to become _explicitely_ aware of the importance of step by step adaptation.
 

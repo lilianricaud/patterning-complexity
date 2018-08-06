@@ -2,9 +2,9 @@
 
 A pattern language is more than just a PATTERN catalogue. 
 
-The LANGUAGE NATURE OF PATTERN LANGUAGES  combines the nodes into an organizational framework, a COMPLEX SYSTEM of PATTERNS where each patterns is linked to several other patterns in a generative manner.
+The LANGUAGE NATURE OF PATTERN LANGUAGES combines the nodes (PATTERNS) into an organizational framework, a COMPLEX SYSTEM where each pattern is linked to several other patterns in a generative manner.
 
-As a complex system, a pattern language cannot be fabricated and must be generated using a GENERATIVE SEQUENCE.
+As a complex system, a pattern language cannot be fabricated and must be generated using a GENERATIVE SEQUENCE (GENERATIVE SEQUENCE FOR PATTERN LANGUAGE GENERATION).
 
 
 
