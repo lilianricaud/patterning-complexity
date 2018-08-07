@@ -43,3 +43,5 @@ There may be an infinity of different opposites. One needs to exhaust the soluti
 
 PATTERNS AS SOCIAL OBJECTS can help for GROUP ALIGNEMENT (PATTERNS FOR GROUP ALIGNEMENT).
 
+## NATURAL PATTERNS & PATTERNS IN PERMACULTURE
+
