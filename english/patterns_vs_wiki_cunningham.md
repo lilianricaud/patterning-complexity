@@ -37,3 +37,7 @@ These are models of design specifically for pattern languages, and models of kno
 3. Those acts and their consequence are heritable and thus subject to evolution.
 4. Pattern language, as developed by Christopher Alexander, mapped a useful subset of the heritable knowledge of building.
 5. Wiki, as developed by Ward Cunningham, maps a useful subset of heritable knowledge within the context of user websites, and their missions or “site charters”.
+
+## source
+Wikis as pattern language Cunningham and Mehaffy
+http://www.sustasis.net/wiki-as-pl.pdf
