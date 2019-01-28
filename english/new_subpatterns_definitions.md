@@ -8,4 +8,6 @@ structural/mapping patterns: description of the best/living relationships betwee
 
 recipe/generative pattern: describe the process/recipe to reach that particular configuration described in the mapping pattern.
 
+word pattern: pattern as word to parse a system and communicate about specific parts of a subsystem, allow groups to explicitly focus on subparts of systems.
+
 
