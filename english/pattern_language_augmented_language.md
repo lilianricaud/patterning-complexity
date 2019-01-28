@@ -7,4 +7,6 @@ Such approach would enable, as suggested by Henshaw 66 , to focus attention more
 
 We can see patterns, in their broadest definitions, as units of ‘meaning-making’, which enable both the decoding (understanding), and the encoding (design or transformation) of systems characteristics, in a heuristic participative way.
 
+from an epistemological perspective, Alexander did capture the multiple facets of patterns, and their systemic implication. But I contended that the execution or practice did not follow, because in  their  current  form,  patterns  and  pattern  languages  do  not  leverage  the  properties and  potential  of  patterns optimally. Indeed, patterns and pattern languages are not currently configured to be systemic. In other words, they are not fit methodologically for systemic design.
+
 From Finidori 2018
