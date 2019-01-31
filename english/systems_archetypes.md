@@ -1,5 +1,8 @@
 systems archetypes, documented by Peter Senge
 
+
+these archetypes seems to be ANTIPATTERNS.
+
 The eight most common system archetypes are: 
 1. Fixes  that  fail—A  solution  is  rapidly  implemented  to  address  the  symptoms  of  an  urgent 
 problem. This quick fix sets into motion unintended consequences that are not evident at first 
