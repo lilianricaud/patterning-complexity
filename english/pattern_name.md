@@ -10,4 +10,6 @@ ROOF is above* the WALLS, WINDOWS are *contained within* the WALLS.
 
 Somewhere *towards the center* of a REGION there is a CENTRAL BUSINESS DISTRICT, which contains a *very high desnsity* OFFICE BLOCK. The overall density of the region *slopes off with distance from the center according to exponential laws*; *periodically there are again peaks* of higher density and *subsidiary* to these *smaller peaks* are still smaller peaks. Each of these peaks of density *contains* STORES and OFFICES *surrounded by* higher density housing...
 
+Therefore using nouns allows us to use PATTERNS TO AUGMENT NATURAL LANGUAGE
+
 Timeless way of building, P86.
