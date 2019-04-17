@@ -22,10 +22,16 @@ Data overlays.
 Design by assessing the results of random assemblies of elements help going beyond preconceived ideas.)
 
 ## FLOW DIAGRAMS
-Work study methods, circular routes, and desired lines ...
+Design for work places: Work study methods, circular routes, and desired lines ...
 
 ## ZONE, SECTOR AND ELEVATION ANALYSIS
-Energy efficient planning for house and settlement.
+Design by the application of a master pattern: Energy efficient planning for house and settlement.
+
+## CLIENT BRIEF
+- questionnaire
+- interview
+
+## INCREMENTAL DESIGN
 
 Source: Patsy Garrard and Georges Sobot- permaculture teaching and design 1997.
 
