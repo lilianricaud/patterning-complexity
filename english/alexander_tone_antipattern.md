@@ -1,6 +1,6 @@
 # Pattern language theory antipatterns
 
-Seems both Alexander and Molisson were on the right track but, possibly because the had to fight to bring their theories to life in the 70 they used provocative and dogmatic tone that might have useful to be understood by early adopters but were damaging to the adoption of their theory beyond pioneers/early adopters. Here's a mapping of Alexander antipatterns.
+Seems both Alexander and Molisson were on the right track but, possibly because the had to fight to bring their theories to life in the 70s, they used provocative and dogmatic tone that might have useful to be understood by early adopters but were damaging to the adoption of their theory beyond pioneers/early adopters. Here's a mapping of Alexander antipatterns.
 
 ## PROVOCATIVE STATEMENTS
 
@@ -12,17 +12,12 @@ Seems both Alexander and Molisson were on the right track but, possibly because 
 
 ## PROSELYTING TONE
 
-an air of authority that discourages dissent and critical
-engagement with Alexander’s theory, while reinforcing
+an air of authority that discourages dissent and critical engagement with Alexander’s theory, while reinforcing
 the notion that there is only one ‘right’ way of building.
-Alexander’s low opinion of architects, and the barriers
-he placed in their way, are problematic because he still
-envisions them playing an important role as guides to A
-Pattern Language’s participatory design processes (Bobic
-1996; Tanner 2000). Ironically, the authoritative tone
-results in his work resembling self-help books which
-serves to inspire confidence among non-professionals
-and is suggested to partially explain the widespread pop-
+Alexander’s low opinion of architects, and the barriers he placed in their way, are problematic because he still
+envisions them playing an important role as guides to A Pattern Language’s participatory design processes (Bobic
+1996; Tanner 2000). Ironically, the authoritative tone results in his work resembling self-help books which
+serves to inspire confidence among non-professionals and is suggested to partially explain the widespread pop-
 ularity of A Pattern Language (Bhatt 2010).
 
 ## BIBLE STYLE BOOK
@@ -49,43 +44,24 @@ This is a criticism of the pattern language concept, which would apply to every 
 
 ## UTOPIC IDEAL CONDITIONS
 
-is theory.
-Alexander’s insistence on returning to pre-industrial
-production modalities [16] comprises three examples of
-flawed reasoning. First, this insistence arises from Alex-
-ander’s vision of a society of pure freedom and is to be
-achieved through an activated populace reshaping their
-environment through bottom-up, grass roots processes.
-This pre-industrial language demands hand-crafting,
-piecemeal development, the de-commodification of land,
-and an absence of external controls. However, Anders
-Duany—a founder of The Congress for the New Urban-
-ism, an organisation established to implement ideas
-of Alexander and Jane Jacobs—argues that grass roots
-process are insufficient to achieve to achieve the scale
-of change Alexander requires. This scale of change is
-only possible with top down control and the guidance of
-expert leaders, a role that Alexander typically fulfils in
-his own projects (Mehaffy 2004, 2008). Second, the pre-
-industrial production methods including  a retreat from
-labour specialisation is unlikely to achieve a level of pro-
-ductivity sufficient to support a modern society. Finally,
-if Alexander’s patterns are to be successful they must be
-compatible with contemporary society, which includes
 
-the ability to profit monetarily from one’s endeavours,
-and Alexander’s insistence on the de-commodification
-land runs counter to this requirement (Dovey 1990).
-Critics point to Alexander’s insistence on forcing these
-requirements on a modern society as symptomatic of
-an ontology that ignores social, political and economic
-realities that establishes a connection between problems
-with the development and conceptualisation of the the-
-ory (Montgomery 1970; Dovey 1990; Salingaros 2000;
-Elsheshtawy 2001; Saunders 2002a). Meanwhile flawed
-reasoning also produces patterns that are incompatible
-with contemporary society and establishes a connection
-to problems with the implementation of the language.
+Alexander’s insistence on returning to pre-industrial production modalities [16] comprises three examples of
+flawed reasoning. First, this insistence arises from Alexander’s vision of a society of pure freedom and is to be
+achieved through an activated populace reshaping their environment through bottom-up, grass roots processes.
+
+This pre-industrial language demands hand-crafting, piecemeal development, the de-commodification of land,
+and an absence of external controls. However, Anders Duany—a founder of The Congress for the New Urbanism, an organisation established to implement ideas of Alexander and Jane Jacobs—argues that grass roots
+process are insufficient to achieve to achieve the scale of change Alexander requires. 
+
+This scale of change is only possible with top down control and the guidance of expert leaders, a role that Alexander typically fulfils in his own projects (Mehaffy 2004, 2008). Second, the pre-industrial production methods including  a retreat from labour specialisation is unlikely to achieve a level of productivity sufficient to support a modern society. 
+
+Finally,if Alexander’s patterns are to be successful they must be compatible with contemporary society, which includes the ability to profit monetarily from one’s endeavours, and Alexander’s insistence on the de-commodification land runs counter to this requirement (Dovey 1990).
+
+Critics point to Alexander’s insistence on forcing these requirements on a modern society as symptomatic of
+an ontology that ignores social, political and economic realities that establishes a connection between problems
+with the development and conceptualisation of the theory (Montgomery 1970; Dovey 1990; Salingaros 2000;
+Elsheshtawy 2001; Saunders 2002a). Meanwhile flawed reasoning also produces patterns that are incompatible
+with contemporary society and establishes a connection to problems with the implementation of the language.
 
 ## TYRANNICAL-PERCIEVED THEORY
 
